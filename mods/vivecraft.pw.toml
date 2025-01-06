@@ -1,0 +1,8 @@
+name = "vivecraft"
+filename = "vivecraft-1.20.1-1.2.0-b2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://pwcdn.fem.place/vivecraft-1.20.1-1.2.0-b2-fabric.jar"
+hash-format = "sha256"
+hash = "3df55f83aa50ecb7acc73b0018291177c091e039e0ac00b7e9593c1e584502ab"
