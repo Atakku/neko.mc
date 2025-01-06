@@ -35,7 +35,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Join neko.smp
+  label = Join server
   navigatable = true
   element_type = custom_button
   instance_identifier = 56e06436-7b20-4a5f-a290-a364a21fe071-1709314286734
