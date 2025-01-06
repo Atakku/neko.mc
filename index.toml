@@ -84,6 +84,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/balm.pw.toml"
 metafile = true
 
