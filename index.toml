@@ -55,6 +55,10 @@ file = "config/supplementaries-common.json"
 file = "config/tectonic.json"
 
 [[files]]
+file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -232,6 +236,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/inline.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/jamlib.pw.toml"
 metafile = true
 
 [[files]]
@@ -432,6 +440,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/rightclickharvest.pw.toml"
 metafile = true
 
 [[files]]
