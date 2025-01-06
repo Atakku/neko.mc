@@ -147,6 +147,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/custom/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
