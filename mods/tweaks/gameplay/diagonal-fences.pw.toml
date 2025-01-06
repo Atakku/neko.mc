@@ -1,0 +1,13 @@
+name = "Diagonal Fences"
+filename = "DiagonalFences-v8.1.5-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IKARgflD/versions/eJNY2Ah4/DiagonalFences-v8.1.5-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "7c72b4ee75cdd36699125282b77cb675f507d7c1"
+
+[update]
+[update.modrinth]
+mod-id = "IKARgflD"
+version = "eJNY2Ah4"
