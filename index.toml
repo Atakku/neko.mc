@@ -340,6 +340,10 @@ file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/lodentityrendering.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/particular.pw.toml"
 metafile = true
 
