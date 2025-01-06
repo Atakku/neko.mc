@@ -4,6 +4,15 @@ hash-format = "sha256"
 file = "config/builtinservers.json"
 
 [[files]]
+file = "config/collective/checked.txt"
+
+[[files]]
+file = "config/expanded_ecosphere/config.json5"
+
+[[files]]
+file = "config/expanded_ecosphere/replace_biomes.json5"
+
+[[files]]
 file = "config/fancymenu/assets/logo.png"
 
 [[files]]
@@ -26,6 +35,12 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 
 [[files]]
 file = "config/fancymenu/options.txt"
+
+[[files]]
+file = "config/supplementaries-common.json"
+
+[[files]]
+file = "config/tectonic.json"
 
 [[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
@@ -188,6 +203,10 @@ file = "mods/libraries/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/paxi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
@@ -201,6 +220,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/sushi-bar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -449,6 +472,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
