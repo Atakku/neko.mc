@@ -1,0 +1,10 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "fsmp",
+      "address": "direct.srvr.atakku.dev:34190",
+      "forced": true
+    }
+  ]
+}
