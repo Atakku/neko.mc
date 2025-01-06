@@ -71,19 +71,19 @@ file = "mods/content/applied-energistics/mega.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/blocks/chipped.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/compat/cccbridge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/compat/polymorphic-energistics.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
@@ -104,6 +104,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/hex-casting/hex-casting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hexvr.pw.toml"
 metafile = true
 
 [[files]]
