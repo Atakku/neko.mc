@@ -163,6 +163,10 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
