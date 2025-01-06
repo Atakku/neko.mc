@@ -147,6 +147,18 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/custom/fsmp-bridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom/fsmp-restarter.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom/fsmp-spawner.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
