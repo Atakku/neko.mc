@@ -3,7 +3,7 @@
   "builtinServers": [
     {
       "name": "fsmp",
-      "address": "direct.srvr.atakku.dev:34190",
+      "address": "smp.fem.place",
       "forced": true
     }
   ]

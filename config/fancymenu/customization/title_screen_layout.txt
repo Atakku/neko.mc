@@ -28,7 +28,7 @@ scroll_list_customization {
 
 element {
   button_element_executable_block_identifier = 5c1d529d-53a8-4953-bf56-2559b4119ff6-1709314286734
-  [executable_action_instance:2e632c32-2115-4a34-873d-cadad9a78a15-1709314501886][action_type:joinserver] = smp.neko.rs
+  [executable_action_instance:2e632c32-2115-4a34-873d-cadad9a78a15-1709314501886][action_type:joinserver] = smp.fem.place
   [executable_block:5c1d529d-53a8-4953-bf56-2559b4119ff6-1709314286734][type:generic] = [executables:2e632c32-2115-4a34-873d-cadad9a78a15-1709314501886;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
