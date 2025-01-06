@@ -3,7 +3,7 @@ filename = "fsmp-bridge-1.2.0+1.20.1-server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/nekosmp/fsmp-bridge/releases/download/mc1.20.1/v1.2.0/fsmp-bridge-1.2.0%2B1.20.1-server.jar"
+url = "https://github.com/atakku/fsmp-bridge/releases/download/mc1.20.1/v1.2.0/fsmp-bridge-1.2.0%2B1.20.1-server.jar"
 hash-format = "sha256"
 hash = "cbd7b47838a2f3a25b19265ccf43ec6723a7593374820b7deea95764aba82683"
 
