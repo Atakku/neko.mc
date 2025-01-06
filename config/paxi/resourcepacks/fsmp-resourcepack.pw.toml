@@ -1,0 +1,15 @@
+name = "fsmp-resourcepack"
+filename = "fsmp-datapack-0.2.0.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Atakku/fsmp-datares/releases/download/mc1.20.1/v0.2.0/fsmp-datapack-0.2.0.zip"
+hash-format = "sha256"
+hash = "5c15ce8ecc4982e0f6feb09d69a8352a3b1704b3155b47c6c3593c202004284d"
+
+[update]
+[update.github]
+branch = "1.20.1"
+regex = "fsmp-resourcepack-.*\\.zip$"
+slug = "atakku/fsmp-datares"
+tag = "mc1.20.1/v0.2.0"

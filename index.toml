@@ -37,6 +37,18 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 file = "config/fancymenu/options.txt"
 
 [[files]]
+file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fsmp-resourcepack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/supplementaries-common.json"
 
 [[files]]
@@ -472,10 +484,6 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/tectonic.pw.toml"
-metafile = true
-
-[[files]]
-file = "paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
