@@ -111,6 +111,18 @@ file = "mods/content/hex-casting/hex-casting.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/hex-casting/hexcassettes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hexcellular.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hextweaks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/hex-casting/hexvr.pw.toml"
 metafile = true
 
