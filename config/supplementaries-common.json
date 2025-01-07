@@ -2,6 +2,9 @@
   "redstone": {
     "faucet": {
       "enabled": false
+    },
+    "lumisene": {
+      "enabled": false
     }
   }
 }
