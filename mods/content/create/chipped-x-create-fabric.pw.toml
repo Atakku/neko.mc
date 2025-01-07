@@ -1,6 +1,6 @@
 name = "Chipped x Create Fabric"
 filename = "chcf-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ncbuvyrf/versions/Q9Q2uYPe/chcf-1.0.0.jar"
