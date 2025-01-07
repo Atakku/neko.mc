@@ -143,10 +143,6 @@ file = "mods/content/create/interiors.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/tramways.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
 metafile = true
 
