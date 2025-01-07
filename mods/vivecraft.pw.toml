@@ -1,13 +1,8 @@
 name = "Vivecraft"
-filename = "vivecraft-1.20.1-1.2.0-fabric.jar"
+filename = "HexVR-1.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/cPftcA2m/vivecraft-1.20.1-1.2.0-fabric.jar"
-hash-format = "sha1"
-hash = "bc978203571e473315baf4c1bb66dab8164a4511"
-
-[update]
-[update.modrinth]
-mod-id = "wGoQDPN5"
-version = "cPftcA2m"
+url = "https://pwcdn.fem.place/HexVR-1.5.2.jar"
+hash-format = "sha256"
+hash = "12dfd97efb5f8ba788a1045231eeafb61d2deddc4d3e0e4fa4237f9e4de84f9a"
