@@ -103,6 +103,22 @@ file = "mods/content/create/chipped-x-create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-enchantment-industry-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-fabric.pw.toml"
 metafile = true
 
@@ -111,7 +127,23 @@ file = "mods/content/create/create-railways-navigator.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-train-perspective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/interiors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/tramways.pw.toml"
 metafile = true
 
 [[files]]
