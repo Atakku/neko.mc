@@ -239,6 +239,14 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figextra.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 metafile = true
 
@@ -432,6 +440,10 @@ metafile = true
 
 [[files]]
 file = "mods/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
 metafile = true
 
 [[files]]

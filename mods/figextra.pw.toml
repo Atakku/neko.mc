@@ -1,0 +1,13 @@
+name = "FigExtra"
+filename = "figextra-0.5.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LLaxCA8Y/versions/sbhLvjx5/figextra-0.5.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "fef2cdf06c13caa12633ee553bef9791ed02c79c"
+
+[update]
+[update.modrinth]
+mod-id = "LLaxCA8Y"
+version = "sbhLvjx5"
