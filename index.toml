@@ -243,10 +243,6 @@ file = "mods/emotecraft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/figextra.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/figura.pw.toml"
 metafile = true
 
