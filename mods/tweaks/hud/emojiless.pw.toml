@@ -1,0 +1,13 @@
+name = "Emojiless"
+filename = "emojiless-fabric-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tziAxegp/versions/eEo4Y9fU/emojiless-fabric-1.2.1.jar"
+hash-format = "sha1"
+hash = "caaba7b012a25a3b704a9aeb41bac192d9d15780"
+
+[update]
+[update.modrinth]
+mod-id = "tziAxegp"
+version = "eEo4Y9fU"
