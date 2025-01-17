@@ -239,10 +239,6 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emotecraft.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/figura.pw.toml"
 metafile = true
 
@@ -439,7 +435,19 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
+file = "mods/testing/emotecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/lodentityrendering.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/plasmo-voice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
@@ -619,15 +627,15 @@ file = "mods/tweaks/visual/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/figura.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/iris.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/visual/lodentityrendering.pw.toml"
 metafile = true
 
 [[files]]
@@ -640,10 +648,6 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/spark.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
