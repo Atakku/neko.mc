@@ -1,0 +1,13 @@
+name = "libraryferret"
+filename = "libraryferret-fabric-1.20.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOB2l4oJ/versions/4vBB6GCj/libraryferret-fabric-1.20.1-4.0.0.jar"
+hash-format = "sha1"
+hash = "ec87a635904ac0d52e619fa004e93c406cc0d671"
+
+[update]
+[update.modrinth]
+mod-id = "DOB2l4oJ"
+version = "4vBB6GCj"
