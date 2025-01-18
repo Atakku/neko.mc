@@ -58,10 +58,6 @@ file = "config/supplementaries-common.json"
 file = "config/tectonic.json"
 
 [[files]]
-file = "mods/bettervillages.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
@@ -310,6 +306,10 @@ file = "mods/libraries/konkrete.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/libraryferret.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
@@ -371,10 +371,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/libraryferret.pw.toml"
 metafile = true
 
 [[files]]
@@ -546,6 +542,10 @@ file = "mods/tweaks/gameplay/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/ae2-mousetweaks-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/easy-anvils.pw.toml"
 metafile = true
 
@@ -555,6 +555,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/mindful-darkness.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/mouse-tweaks.pw.toml"
 metafile = true
 
 [[files]]
@@ -711,6 +715,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/structures/bettervillages.pw.toml"
 metafile = true
 
 [[files]]
