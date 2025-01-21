@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bluemap/postgresql.toml"
+
+[[files]]
 file = "config/builtinservers.json"
 
 [[files]]
