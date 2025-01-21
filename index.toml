@@ -689,6 +689,10 @@ file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/bluemap/bluemap.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/invview.pw.toml"
 metafile = true
 
