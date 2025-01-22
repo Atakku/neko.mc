@@ -62,6 +62,10 @@ file = "config/supplementaries-common.json"
 file = "config/tectonic.json"
 
 [[files]]
+file = "mods/almanac.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
@@ -382,6 +386,14 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/async-locator.pw.toml"
 metafile = true
 
@@ -518,6 +530,10 @@ file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
 metafile = true
 
@@ -551,6 +567,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/ae2-mousetweaks-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/borderless-mining.pw.toml"
 metafile = true
 
 [[files]]
@@ -671,6 +691,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/highlight.pw.toml"
 metafile = true
 
 [[files]]
