@@ -206,6 +206,10 @@ file = "mods/content/other/sleep-tight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/table-top-craft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/silly/moyai.pw.toml"
 metafile = true
 
