@@ -62,10 +62,6 @@ file = "config/supplementaries-common.json"
 file = "config/tectonic.json"
 
 [[files]]
-file = "mods/almanac.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
@@ -254,6 +250,10 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/almanac.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
@@ -383,14 +383,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lmd.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/monsters-in-the-closet.pw.toml"
 metafile = true
 
 [[files]]
@@ -530,7 +522,15 @@ file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/lmd.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
 metafile = true
 
 [[files]]
@@ -755,6 +755,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/structures/bettervillages.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/structures/yungs-better-ocean-monuments.pw.toml"
 metafile = true
 
 [[files]]
