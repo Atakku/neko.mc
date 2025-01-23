@@ -2,15 +2,20 @@ name = "Particular ✨"
 filename = "particular-1.1.1.jar"
 side = "client"
 
-[download]
-url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/19UWxtiZ/particular-1.1.1.jar"
-hash-format = "sha1"
-hash = "f392b6c80edf5518b52ffe7667198202a0bcef8d"
+#[download]
+#url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/19UWxtiZ/particular-1.1.1.jar"
+#hash-format = "sha1"
+#hash = "f392b6c80edf5518b52ffe7667198202a0bcef8d"
 
-[update]
-[update.modrinth]
-mod-id = "B1CcCd9h"
-version = "19UWxtiZ"
+#[update]
+#[update.modrinth]
+#mod-id = "B1CcCd9h"
+#version = "19UWxtiZ"
+
+[download]
+url = "https://pwcdn.fem.place/particular-1.1.1.jar"
+hash-format = "sha256"
+hash = "73e02d20d44dd8133aae77901e2fb09a3b32e77cca693f610a88ea993652df3a"
 
 [option]
 optional = true
