@@ -27,5 +27,5 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/expanded-ecosphere
 	*/
 	"forceLargeBiomes": false,
 	// Removes underground ores (andesite, diorite, granite, gravel and dirt)
-	"removeOreBlobs": true
+	"removeOreBlobs": false
 }
