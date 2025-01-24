@@ -1,0 +1,13 @@
+name = "Elytra Time"
+filename = "elytratime-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aKTCDkGb/versions/4AaZBTyI/elytratime-2.0.0.jar"
+hash-format = "sha1"
+hash = "e87077d39823d36531730351e317edebff011151"
+
+[update]
+[update.modrinth]
+mod-id = "aKTCDkGb"
+version = "4AaZBTyI"

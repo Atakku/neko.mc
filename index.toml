@@ -98,6 +98,10 @@ file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
@@ -267,6 +271,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/bclib.pw.toml"
 metafile = true
 
 [[files]]
@@ -458,7 +466,7 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/emotecraft.pw.toml"
+file = "mods/testing/elytratime.pw.toml"
 metafile = true
 
 [[files]]
@@ -602,6 +610,10 @@ file = "mods/tweaks/gui/polymorph.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/tooltipfix.pw.toml"
 metafile = true
 
@@ -718,6 +730,10 @@ file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/bluemap/bluemap.pw.toml"
 metafile = true
 
@@ -746,7 +762,15 @@ file = "mods/utilities/xaeros/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/end/betterend.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/nether/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nether/betternether.pw.toml"
 metafile = true
 
 [[files]]
