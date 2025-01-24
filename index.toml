@@ -5,6 +5,12 @@ file = "bluemap/postgresql.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/bclib/client.json"
+
+[[files]]
+file = "config/bclib/server.json"
+
+[[files]]
 file = "config/builtinservers.json"
 
 [[files]]
