@@ -772,6 +772,10 @@ file = "mods/worldgen/end/betterend.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/end/nullscape.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/nether/amplified-nether.pw.toml"
 metafile = true
 
