@@ -104,10 +104,6 @@ file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/computer-craft/ducky-periphs.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
