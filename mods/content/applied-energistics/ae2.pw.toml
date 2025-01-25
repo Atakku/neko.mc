@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://pwcdn.fem.place/appliedenergistics2-fabric-15.3.3.jar"
 hash-format = "sha256"
-hash = "813ffa5d6771d57faea8f227be17021cd8401000941ccd4d1b7048988a28c56a"
+hash = "8d7df22f5ddc4e0b5f75558f8cb6d896d5f74206cf0eb5f49d9bb979375c2303"
 
 #[download]
 #url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/Fb70Efd1/appliedenergistics2-fabric-15.3.3.jar"
