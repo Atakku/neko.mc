@@ -468,11 +468,43 @@ file = "mods/testing/chipped-x-create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/elytratime.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/emi-create-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/ironfish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/nethers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/patchoulibutton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/unloaded-activity.pw.toml"
 metafile = true
 
 [[files]]
