@@ -104,6 +104,10 @@ file = "mods/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/ducky-periphs.pw.toml"
 metafile = true
 
@@ -153,6 +157,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/nethers-delight-refabricated.pw.toml"
 metafile = true
 
 [[files]]
@@ -468,43 +476,7 @@ file = "mods/testing/chipped-x-create-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/computer-cartographer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/create_oxidized.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/distinguished-potions.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/elytratime.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/emi-create-schematics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/ironfish.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/nethers-delight-refabricated.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/patchoulibutton.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/trinkets.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/unloaded-activity.pw.toml"
 metafile = true
 
 [[files]]
@@ -521,6 +493,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/audio/sound.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-create-schematics.pw.toml"
 metafile = true
 
 [[files]]
@@ -572,6 +548,10 @@ file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/ironfish.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/lmd.pw.toml"
 metafile = true
 
@@ -612,6 +592,10 @@ file = "mods/tweaks/gameplay/treechop.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/vivecraft.pw.toml"
 metafile = true
 
@@ -624,11 +608,19 @@ file = "mods/tweaks/gui/borderless-mining.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/easy-anvils.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/easy-magic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/elytratime.pw.toml"
 metafile = true
 
 [[files]]
@@ -644,6 +636,10 @@ file = "mods/tweaks/gui/norecipebook.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/patchoulibutton.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/polymorph.pw.toml"
 metafile = true
 
@@ -653,6 +649,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/tooltipfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/trinkets.pw.toml"
 metafile = true
 
 [[files]]
