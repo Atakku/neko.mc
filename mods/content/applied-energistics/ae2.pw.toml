@@ -1,11 +1,11 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-fabric-0.0.0.jar"
+filename = "appliedenergistics2-fabric-15.3.3.jar"
 side = "both"
 
 [download]
-url = "https://pwcdn.fem.place/appliedenergistics2-fabric-0.0.0.jar"
+url = "https://pwcdn.fem.place/appliedenergistics2-fabric-15.3.3.jar"
 hash-format = "sha256"
-hash = "71fedacb96beff381fe8cba22cf9ddd6d6b6664e8c229ed760aafc28f92c6fb9"
+hash = "70613d5c4b02df8bea8e8693bd0b79b7d4c5bff4dd4c563ddc5f3c6e31241339"
 
 #[download]
 #url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/Fb70Efd1/appliedenergistics2-fabric-15.3.3.jar"
