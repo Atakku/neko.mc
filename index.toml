@@ -116,10 +116,6 @@ file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/chipped-x-create-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
@@ -149,10 +145,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-train-perspective.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/create/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
@@ -469,6 +461,14 @@ metafile = true
 
 [[files]]
 file = "mods/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/chipped-x-create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
