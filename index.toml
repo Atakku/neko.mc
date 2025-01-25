@@ -472,11 +472,55 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/capes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/chipped-x-create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/cicada.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/connectiblechains.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/darktitlebar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/formidablefarmland.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/shulker-drops-two.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/sparkle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/wavey-capes.pw.toml"
 metafile = true
 
 [[files]]
@@ -773,6 +817,10 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/bluemap/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/chunky.pw.toml"
 metafile = true
 
 [[files]]

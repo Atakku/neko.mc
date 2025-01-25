@@ -1,0 +1,13 @@
+name = "Shulker Drops Two"
+filename = "shulkerdropstwo-1.20.1-3.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UjXIyw47/versions/U1qhDmiO/shulkerdropstwo-1.20.1-3.4.jar"
+hash-format = "sha1"
+hash = "574a8f9506dcc811a648b84ceb72841a422f6dab"
+
+[update]
+[update.modrinth]
+mod-id = "UjXIyw47"
+version = "U1qhDmiO"
