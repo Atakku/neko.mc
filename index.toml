@@ -601,6 +601,10 @@ file = "mods/testing/test3/inventory-tabs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test3/lmft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test3/terrablender.pw.toml"
 metafile = true
 
