@@ -241,6 +241,10 @@ file = "mods/content/mobs/species.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/endrem.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/exposure.pw.toml"
 metafile = true
 
@@ -589,23 +593,7 @@ file = "mods/testing/test2/yungs-better-nether-fortresses.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test3/edf-remastered.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/endrem.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/inventory-tabs.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test3/lmft.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/terrablender.pw.toml"
 metafile = true
 
 [[files]]
@@ -618,10 +606,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test3/yungs-better-witch-huts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/yungs-cave-biomes.pw.toml"
 metafile = true
 
 [[files]]
