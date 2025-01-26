@@ -1,0 +1,7 @@
+version:3465
+autoJump:false
+guiScale:2
+renderDistance:8
+skipMultiplayerWarning:true
+skipRealms32bitWarning:true
+realmsNotifications:false

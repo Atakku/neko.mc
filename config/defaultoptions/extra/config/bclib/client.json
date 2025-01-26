@@ -5,10 +5,7 @@
   },
   "ui": {
     "showUpdateInfo [default: true]": false,
-    "useModrinthForUpdates [default: false]": false,
-    "forceBetterXPreset [default: true]": true,
-    "suppressExperimentalDialogOnLoad [default: false]": true,
-    "notTheDonorType [default: true]": true
+    "suppressExperimentalDialogOnLoad [default: false]": true
   },
   "auto_sync": {
     "enabled [default: true]": false,
@@ -17,13 +14,5 @@
     "acceptMods [default: true]": false,
     "displayModInfo [default: true]": false,
     "debugHashes [default: false]": false
-  },
-  "rendering": {
-    "customFogRendering [default: true]": true,
-    "netherThickFog [default: true]": true,
-    "FogDensity [default: 1.0]": 1.0
-  },
-  "infos": {
-    "survives_on_hint [default: true]": true
   }
 }

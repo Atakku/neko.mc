@@ -1,0 +1,11 @@
+{
+  "extra_settings": {
+    "cloud_height": 350,
+    "cloud_distance": 100,
+    "toasts": true,
+    "advancement_toast": true,
+    "recipe_toast": false,
+    "system_toast": true,
+    "tutorial_toast": false
+  }
+}

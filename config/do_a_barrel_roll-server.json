@@ -1,5 +1,5 @@
 {
-  "forceInstalled": true,
+  "forceInstalled": false,
   "kineticDamage": "HIGH_SPEED",
   "forceEnabled": true
 }
