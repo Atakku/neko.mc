@@ -2,7 +2,7 @@
   "badgeVisible": false,
   "builtinServers": [
     {
-      "name": "fsmp",
+      "name": "FemSMP",
       "address": "smp.fem.place",
       "forced": true
     }
