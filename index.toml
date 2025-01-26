@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ae2/client.json"
+preserve = true
+
+[[files]]
+file = "config/bclib/client.json"
+preserve = true
+
+[[files]]
+file = "config/chatimageconfig.json"
+preserve = true
+
+[[files]]
+file = "config/computercraft-client.toml"
+preserve = true
+
+[[files]]
+file = "config/create-client.toml"
+preserve = true
+
+[[files]]
+file = "config/sodium-extra-options.json"
+preserve = true
