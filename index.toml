@@ -189,6 +189,10 @@ file = "mods/content/create/interiors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
 metafile = true
 
@@ -261,6 +265,10 @@ file = "mods/content/other/table-top-craft.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/silly/leashable-collars.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/silly/moyai.pw.toml"
 metafile = true
 
@@ -302,6 +310,14 @@ metafile = true
 
 [[files]]
 file = "mods/custom/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
 metafile = true
 
 [[files]]
@@ -445,6 +461,10 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/async-locator.pw.toml"
 metafile = true
 
@@ -533,15 +553,7 @@ file = "mods/testing/test1/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test1/do-a-barrel-roll.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test1/dramatic-doors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test1/ends-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -558,10 +570,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test1/shulker-drops-two.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test1/spyglass-improvements.pw.toml"
 metafile = true
 
 [[files]]
@@ -585,10 +593,6 @@ file = "mods/testing/test2/unilib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/yungs-better-jungle-temples.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/yungs-better-nether-fortresses.pw.toml"
 metafile = true
 
@@ -597,11 +601,15 @@ file = "mods/testing/test3/inventory-tabs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test3/leashable-collars.pw.toml"
+file = "mods/testing/test3/yungs-better-desert-temples.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test3/squat-grow.pw.toml"
+file = "mods/testing/test3/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/yungs-better-witch-huts.pw.toml"
 metafile = true
 
 [[files]]
@@ -673,6 +681,10 @@ file = "mods/tweaks/gameplay/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/formidablefarmland.pw.toml"
 metafile = true
 
@@ -722,6 +734,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/softer-hay-bales.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
 metafile = true
 
 [[files]]
@@ -970,6 +986,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/structures/bettervillages.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/structures/yungs-better-jungle-temples.pw.toml"
 metafile = true
 
 [[files]]
