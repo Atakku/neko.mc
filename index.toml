@@ -313,14 +313,6 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/edf-remastered.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/endrem.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -597,7 +589,19 @@ file = "mods/testing/test2/yungs-better-nether-fortresses.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test3/edf-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/endrem.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test3/inventory-tabs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/terrablender.pw.toml"
 metafile = true
 
 [[files]]
@@ -610,6 +614,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test3/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/yungs-cave-biomes.pw.toml"
 metafile = true
 
 [[files]]
