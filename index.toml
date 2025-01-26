@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bluemap/postgresql.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/ae2/client.json"
 preserve = true
 
@@ -9,8 +13,20 @@ file = "config/bclib/client.json"
 preserve = true
 
 [[files]]
+file = "config/bclib/server.json"
+
+[[files]]
+file = "config/builtinservers.json"
+
+[[files]]
 file = "config/chatimageconfig.json"
 preserve = true
+
+[[files]]
+file = "config/chunky/config.json"
+
+[[files]]
+file = "config/collective/checked.txt"
 
 [[files]]
 file = "config/computercraft-client.toml"
@@ -21,5 +37,909 @@ file = "config/create-client.toml"
 preserve = true
 
 [[files]]
+file = "config/create-server.toml"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+
+[[files]]
+file = "config/expanded_ecosphere/config.json5"
+
+[[files]]
+file = "config/expanded_ecosphere/replace_biomes.json5"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+
+[[files]]
+file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fsmp-resourcepack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/sodium-extra-options.json"
 preserve = true
+
+[[files]]
+file = "config/supplementaries-common.json"
+
+[[files]]
+file = "config/tectonic.json"
+
+[[files]]
+file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/mega.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/blocks/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/computer-cartographer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-enchantment-industry-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-railways-navigator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-train-perspective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/interiors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/nethers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hex-casting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hexcassettes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hexcellular.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hextweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/hexvr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/mavm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/naturalist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/species.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/immersive-melodies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mighty-mail.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/sleep-tight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/table-top-craft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/mystical-oak-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/silly/pipe-bomb-in-the-mail.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries-squared.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/supplementaries/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom/fsmp-bridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom/fsmp-restarter.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom/fsmp-spawner.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom/fsmp-whitelist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/almanac.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/framework.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/inline.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/jamlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/kiwi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/konkrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/libraryferret.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mavapi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/melody.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mru.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/paucal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/paxi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/pehkui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/peripheralium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/sushi-bar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/async-locator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/bobby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/gputape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/indium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/language-reload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/chipped-x-create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/cicada.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/connectiblechains.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/dramatic-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/joy-of-painting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/shulker-drops-two.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/plasmo-voice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/sound.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-create-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emienchants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/crawl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/crops-love-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/formidablefarmland.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/ironfish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/lmd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/persistent-pearls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/rightclickharvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/screenshot-to-clipboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/skippy-pearls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/softer-hay-bales.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/treechop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/ae2-mousetweaks-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/borderless-mining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/darktitlebar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/easy-magic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/elytratime.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/mindful-darkness.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/norecipebook.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/patchoulibutton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/tooltipfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chatimage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/emojiless.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade-addons-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/overflowing-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/status-effect-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/builtin-servers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/default-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/disable-accessibility-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/bettergrassify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/highlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/particular.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/bluemap/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/invview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/opac/opac-fabric-create-support.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/opac/open-parties-and-claims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaeros/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/xaeros/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/end/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/end/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nether/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nether/betternether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/structures/bettervillages.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/structures/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+metafile = true

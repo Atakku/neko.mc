@@ -2,4 +2,3 @@ key_key.crawl:key.keyboard.c:NONE
 key_key.socialInteractions:key.keyboard.unknown:NONE
 key_treechop.key.open_settings_overlay:key.keyboard.unknown:NONE
 key_seamless_loading_screen.keybind.config:key.keyboard.unknown:NONE
-
