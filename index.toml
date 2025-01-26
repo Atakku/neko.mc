@@ -245,6 +245,10 @@ file = "mods/content/other/immersive-melodies.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/joy-of-painting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/mighty-mail.pw.toml"
 metafile = true
 
@@ -509,55 +513,95 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/capes.pw.toml"
+file = "mods/testing/test1/capes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/chipped-x-create-fabric.pw.toml"
+file = "mods/testing/test1/chipped-x-create-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/cicada.pw.toml"
+file = "mods/testing/test1/cicada.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/connectiblechains.pw.toml"
+file = "mods/testing/test1/connectiblechains.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/create_oxidized.pw.toml"
+file = "mods/testing/test1/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/do-a-barrel-roll.pw.toml"
+file = "mods/testing/test1/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/dramatic-doors.pw.toml"
+file = "mods/testing/test1/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/ends-delight.pw.toml"
+file = "mods/testing/test1/ends-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/joy-of-painting.pw.toml"
+file = "mods/testing/test1/pv-addon-broadcast.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/ribbits.pw.toml"
+file = "mods/testing/test1/pv-addon-sculk.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/shulker-drops-two.pw.toml"
+file = "mods/testing/test1/ribbits.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/spyglass-improvements.pw.toml"
+file = "mods/testing/test1/shulker-drops-two.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/wavey-capes.pw.toml"
+file = "mods/testing/test1/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test1/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/friends-and-foes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/unilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/inventory-tabs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/leashable-collars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/squat-grow.pw.toml"
 metafile = true
 
 [[files]]
