@@ -232,6 +232,10 @@ file = "mods/content/mobs/creeper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/enderman-overhaul.pw.toml"
 metafile = true
 
@@ -548,75 +552,55 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test1/chipped-x-create-fabric.pw.toml"
+file = "mods/testing/test/analog.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test1/connectiblechains.pw.toml"
+file = "mods/testing/test/chipped-x-create-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test1/create_oxidized.pw.toml"
+file = "mods/testing/test/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/craftpresence.pw.toml"
+file = "mods/testing/test/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/no-chat-reports.pw.toml"
+file = "mods/testing/test/foggy-border.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/unilib.pw.toml"
+file = "mods/testing/test/lmft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/yungs-better-nether-fortresses.pw.toml"
+file = "mods/testing/test/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test3/lmft.pw.toml"
+file = "mods/testing/test/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test3/yungs-better-desert-temples.pw.toml"
+file = "mods/testing/test/twigs.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test3/yungs-better-strongholds.pw.toml"
+file = "mods/testing/test/unilib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test4/analog.pw.toml"
+file = "mods/testing/test/verdantvibes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test4/critters-and-companions.pw.toml"
+file = "mods/testing/test/voicechat-soundboard.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test4/foggy-border.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test4/simple-voice-chat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test4/twigs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test4/verdantvibes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test4/voicechat-soundboard.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test4/yacl.pw.toml"
+file = "mods/testing/test/yacl.pw.toml"
 metafile = true
 
 [[files]]
@@ -665,6 +649,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/connectiblechains.pw.toml"
 metafile = true
 
 [[files]]
@@ -1012,11 +1000,23 @@ file = "mods/worldgen/structures/bettervillages.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/structures/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/structures/yungs-better-jungle-temples.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/structures/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/structures/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/structures/yungs-better-strongholds.pw.toml"
 metafile = true
 
 [[files]]
