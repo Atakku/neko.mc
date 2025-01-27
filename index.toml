@@ -19,6 +19,9 @@ file = "config/bclib/server.json"
 file = "config/builtinservers.json"
 
 [[files]]
+file = "config/capes.json5"
+
+[[files]]
 file = "config/chatimageconfig.json"
 preserve = true
 
@@ -125,7 +128,11 @@ file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/blocks/chipped.pw.toml"
+file = "mods/content/building/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/building/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
@@ -229,11 +236,23 @@ file = "mods/content/mobs/enderman-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/mavm.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/mobs/naturalist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/ribbits.pw.toml"
 metafile = true
 
 [[files]]
@@ -334,6 +353,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cicada.pw.toml"
 metafile = true
 
 [[files]]
@@ -525,15 +548,7 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test1/capes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test1/chipped-x-create-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test1/cicada.pw.toml"
 metafile = true
 
 [[files]]
@@ -545,27 +560,7 @@ file = "mods/testing/test1/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test1/dramatic-doors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test1/ribbits.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test1/shulker-drops-two.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test1/wavey-capes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/craftpresence.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/friends-and-foes.pw.toml"
 metafile = true
 
 [[files]]
@@ -593,10 +588,6 @@ file = "mods/testing/test3/yungs-better-strongholds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test3/yungs-better-witch-huts.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test4/analog.pw.toml"
 metafile = true
 
@@ -606,18 +597,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test4/foggy-border.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test4/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test4/idwtialsimmoedm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test4/seamless.pw.toml"
 metafile = true
 
 [[files]]
@@ -682,6 +661,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/capes.pw.toml"
 metafile = true
 
 [[files]]
@@ -753,6 +736,10 @@ file = "mods/tweaks/gameplay/screenshot-to-clipboard.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/shulker-drops-two.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/skippy-pearls.pw.toml"
 metafile = true
 
@@ -802,6 +789,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/elytratime.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/idwtialsimmoedm.pw.toml"
 metafile = true
 
 [[files]]
@@ -945,7 +936,15 @@ file = "mods/tweaks/visual/particular.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/seamless.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/visuality.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/wavey-capes.pw.toml"
 metafile = true
 
 [[files]]
@@ -1018,6 +1017,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/structures/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/structures/yungs-better-witch-huts.pw.toml"
 metafile = true
 
 [[files]]
