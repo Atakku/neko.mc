@@ -457,10 +457,6 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/packwiz-server-updater.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/performance/async-locator.pw.toml"
 metafile = true
 
@@ -606,6 +602,38 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test3/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test4/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test4/foggy-border.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test4/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test4/idwtialsimmoedm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test4/seamless.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test4/twigs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test4/verdantvibes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test4/yacl.pw.toml"
 metafile = true
 
 [[files]]
