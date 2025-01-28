@@ -227,11 +227,16 @@ file = "mods/content/farmers-delight/nethers-delight-refabricated.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/hex-casting/hex-casting.pw.toml"
-metafile = true
+file = "mods/content/hex-casting/_hexal.toml"
 
 [[files]]
-file = "mods/content/hex-casting/hexal.pw.toml"
+file = "mods/content/hex-casting/_hextweaks.toml"
+
+[[files]]
+file = "mods/content/hex-casting/_moreiotas.toml"
+
+[[files]]
+file = "mods/content/hex-casting/hex-casting.pw.toml"
 metafile = true
 
 [[files]]
@@ -243,15 +248,7 @@ file = "mods/content/hex-casting/hexcellular.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/hex-casting/hextweaks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/hex-casting/hexvr.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/hex-casting/moreiotas.pw.toml"
 metafile = true
 
 [[files]]
