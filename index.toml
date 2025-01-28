@@ -161,6 +161,10 @@ file = "mods/content/build-deco/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/twigs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/verdantvibes.pw.toml"
 metafile = true
 
@@ -590,7 +594,11 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test/analog.pw.toml"
+file = "mods/testing/libs/unilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libs/yacl.pw.toml"
 metafile = true
 
 [[files]]
@@ -610,26 +618,6 @@ file = "mods/testing/test/lmft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test/simple-voice-chat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/twigs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/unilib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/voicechat-soundboard.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/yacl.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test/yungs-extras.pw.toml"
 metafile = true
 
@@ -639,6 +627,18 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test2/elytrabombing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/voice/analog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/voice/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/voice/voicechat-soundboard.pw.toml"
 metafile = true
 
 [[files]]
