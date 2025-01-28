@@ -638,6 +638,10 @@ file = "mods/testing/test2/aileron.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/better-capes-x.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test2/elytrabombing.pw.toml"
 metafile = true
 
@@ -927,10 +931,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/player/capes.pw.toml"
 metafile = true
 
 [[files]]
