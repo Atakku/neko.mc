@@ -31,9 +31,6 @@ file = "config/bclib/server.json"
 file = "config/builtinservers.json"
 
 [[files]]
-file = "config/capes.json5"
-
-[[files]]
 file = "config/chatimageconfig.json"
 preserve = true
 
@@ -638,11 +635,11 @@ file = "mods/testing/test2/aileron.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/custom-capes.pw.toml"
+file = "mods/testing/test2/elytrabombing.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/elytrabombing.pw.toml"
+file = "mods/testing/test2/fabrictailor.pw.toml"
 metafile = true
 
 [[files]]
