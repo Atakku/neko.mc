@@ -1,0 +1,13 @@
+name = "Elytra Bombing"
+filename = "[1.18+]-elytrabombing-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uo5uFsvU/versions/WHnZBGkp/%5B1.18%2B%5D-elytrabombing-1.1.1.jar"
+hash-format = "sha1"
+hash = "17c5a098196e7459ac16ebdbe8af50be66792d2e"
+
+[update]
+[update.modrinth]
+mod-id = "Uo5uFsvU"
+version = "WHnZBGkp"
