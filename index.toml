@@ -934,8 +934,7 @@ file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/player/capes.pw.toml"
-metafile = true
+file = "mods/tweaks/player/_capes.toml"
 
 [[files]]
 file = "mods/tweaks/player/figura.pw.toml"
