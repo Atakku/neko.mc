@@ -1,0 +1,13 @@
+name = "ViveCraft Compat"
+filename = "vivecraftcompatfabric-1.20-1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xnSuzkaS/versions/i3BWM8nD/vivecraftcompatfabric-1.20-1.4.0.jar"
+hash-format = "sha1"
+hash = "50bfa3e6788987f3a50924f9cdaa8b5dc563f2e3"
+
+[update]
+[update.modrinth]
+mod-id = "xnSuzkaS"
+version = "i3BWM8nD"

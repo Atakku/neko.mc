@@ -610,6 +610,10 @@ file = "mods/testing/test/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test/elytrabombing.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test/foggy-border.pw.toml"
 metafile = true
 
@@ -622,11 +626,43 @@ file = "mods/testing/test/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/advancement-frames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/cosmetic-nametags.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/create-cards.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test2/create-power-loader-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/elytrabombing.pw.toml"
+file = "mods/testing/test2/fog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/no-resource-pack-warnings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/structure-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/vivecraft-compat.pw.toml"
 metafile = true
 
 [[files]]
