@@ -94,6 +94,9 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 file = "config/fancymenu/options.txt"
 
 [[files]]
+file = "config/hexcasting/server.json"
+
+[[files]]
 file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
 metafile = true
 
@@ -228,6 +231,10 @@ file = "mods/content/hex-casting/hex-casting.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/hex-casting/hexal.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/hex-casting/hexcassettes.pw.toml"
 metafile = true
 
@@ -242,6 +249,9 @@ metafile = true
 [[files]]
 file = "mods/content/hex-casting/hexvr.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/content/hex-casting/moreiotas.toml"
 
 [[files]]
 file = "mods/content/mobs/creeper-overhaul.pw.toml"
