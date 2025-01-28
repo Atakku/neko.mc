@@ -18,6 +18,9 @@ file = "config/ae2/client.json"
 preserve = true
 
 [[files]]
+file = "config/aileron.json"
+
+[[files]]
 file = "config/bclib/client.json"
 preserve = true
 
@@ -639,6 +642,14 @@ file = "mods/testing/test2/elytrabombing.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/ksyxis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/snow-real-magic.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
 metafile = true
 
@@ -692,18 +703,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/crops-love-rain.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/diagonal-fences.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/diagonal-walls.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/diagonal-windows.pw.toml"
 metafile = true
 
 [[files]]
