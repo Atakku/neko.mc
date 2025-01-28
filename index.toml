@@ -251,7 +251,8 @@ file = "mods/content/hex-casting/hexvr.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/hex-casting/moreiotas.toml"
+file = "mods/content/hex-casting/moreiotas.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/content/mobs/creeper-overhaul.pw.toml"
@@ -383,6 +384,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cardinal-components-api.pw.toml"
 metafile = true
 
 [[files]]
