@@ -5,6 +5,15 @@ file = "bluemap/postgresql.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
 file = "config/ae2/client.json"
 preserve = true
 
@@ -34,6 +43,9 @@ file = "config/collective/checked.txt"
 [[files]]
 file = "config/computercraft-client.toml"
 preserve = true
+
+[[files]]
+file = "config/craftpresence.json"
 
 [[files]]
 file = "config/create-client.toml"
@@ -580,10 +592,6 @@ file = "mods/testing/test/lmft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test/no-chat-reports.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test/simple-voice-chat.pw.toml"
 metafile = true
 
@@ -660,10 +668,6 @@ file = "mods/tweaks/emi/extra-mod-integrations.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/gameplay/capes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/gameplay/connectiblechains.pw.toml"
 metafile = true
 
@@ -717,6 +721,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
@@ -904,6 +912,22 @@ file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/player/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/figurasvc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/wavey-capes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/ambient-environment.pw.toml"
 metafile = true
 
@@ -917,10 +941,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/visual/figura.pw.toml"
 metafile = true
 
 [[files]]
@@ -948,15 +968,19 @@ file = "mods/tweaks/visual/visuality.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/visual/wavey-capes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utilities/bluemap/bluemap-offline-player-markers-(fabric).pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/bluemap/bluemap-sign-markers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/bluemap/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/bluemap/openpac-bluemap-remapped.pw.toml"
 metafile = true
 
 [[files]]
