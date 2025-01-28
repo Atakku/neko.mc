@@ -638,7 +638,7 @@ file = "mods/testing/test2/aileron.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/better-capes-x.pw.toml"
+file = "mods/testing/test2/custom-capes.pw.toml"
 metafile = true
 
 [[files]]
