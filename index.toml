@@ -31,6 +31,9 @@ file = "config/bclib/server.json"
 file = "config/builtinservers.json"
 
 [[files]]
+file = "config/capes.json5"
+
+[[files]]
 file = "config/chatimageconfig.json"
 preserve = true
 
@@ -928,6 +931,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/menu/seamless-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/player/capes.pw.toml"
 metafile = true
 
 [[files]]
