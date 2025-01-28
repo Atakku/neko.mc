@@ -1,0 +1,8 @@
+{
+  "actionDenyList": [
+    "hexcasting:flight"
+  ],
+  "circleActionDenyList": [
+    "hexcasting:flight"
+  ]
+}
