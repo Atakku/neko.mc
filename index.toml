@@ -653,7 +653,19 @@ file = "mods/testing/test2/create-power-loader-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/dcch.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test2/fog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/morechathistory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/server-chat-log-history.pw.toml"
 metafile = true
 
 [[files]]
