@@ -197,6 +197,10 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-cards.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-deco.pw.toml"
 metafile = true
 
@@ -299,6 +303,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/species.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/advancement-frames.pw.toml"
 metafile = true
 
 [[files]]
@@ -626,22 +634,6 @@ file = "mods/testing/test/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/advancement-frames.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/cat_jam.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/cosmetic-nametags.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/create-cards.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/create-power-loader-fabric.pw.toml"
 metafile = true
 
@@ -726,7 +718,15 @@ file = "mods/tweaks/gameplay/aileron.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/connectiblechains.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/cosmetic-nametags.pw.toml"
 metafile = true
 
 [[files]]
