@@ -1,0 +1,13 @@
+name = "Vectorientation"
+filename = "vectorientation-1.1-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NpPKJQg6/versions/y9SK1Hsk/vectorientation-1.1-1.20.jar"
+hash-format = "sha1"
+hash = "331d92c85d2e9ff4622fa963e040ba315db70b18"
+
+[update]
+[update.modrinth]
+mod-id = "NpPKJQg6"
+version = "y9SK1Hsk"

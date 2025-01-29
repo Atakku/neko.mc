@@ -1,0 +1,13 @@
+name = "FullGrownCropMarker"
+filename = "crop-marker-fabric-1.20.4-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zB8NzHon/versions/ggNJLADG/crop-marker-fabric-1.20.4-1.2.1.jar"
+hash-format = "sha1"
+hash = "632bdfb31cf944cc7cb6ce96c8ed53d8bfab1c49"
+
+[update]
+[update.modrinth]
+mod-id = "zB8NzHon"
+version = "ggNJLADG"
