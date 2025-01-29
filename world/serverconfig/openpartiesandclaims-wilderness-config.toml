@@ -1,0 +1,11 @@
+	[playerConfig.claims]
+		usedSub = "main"
+		usedServerSub = "main"
+		name = ""
+		color = 0
+		protectClaimedChunks = true
+		bonusChunkClaims = 0
+		bonusChunkForceloads = 0
+		[playerConfig.claims.forceload]
+			enabled = false
+			offlineForceload = false

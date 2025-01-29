@@ -100,6 +100,9 @@ file = "config/fancymenu/options.txt"
 file = "config/hexcasting/server.json"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+
+[[files]]
 file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
 metafile = true
 
@@ -1136,3 +1139,15 @@ metafile = true
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
 metafile = true
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-default-player-config.toml"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-expired-claim-config.toml"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-server-claim-config.toml"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-wilderness-config.toml"
