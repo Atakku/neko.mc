@@ -654,6 +654,10 @@ file = "mods/testing/test2/fog.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/modern-train-parts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test2/structure-credits.pw.toml"
 metafile = true
 
@@ -1055,6 +1059,10 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/create-track-map.pw.toml"
 metafile = true
 
 [[files]]

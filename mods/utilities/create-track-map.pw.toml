@@ -1,0 +1,8 @@
+name = "create-track-map"
+filename = "create-track-map-1.4+mc1.20.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://pwcdn.fem.place/create-track-map-1.4+mc1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "d65e7d0b0e1cf0121b90be2bf01f473b580b0a4544132ea9cfe80906c3b01f74"
