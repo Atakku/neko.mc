@@ -1,0 +1,68 @@
+[serverConfig]
+defaultLanguage = "en_us"
+autosaveInterval = 10
+playerSubConfigLimit = 64
+permissionSystem = "prometheus"
+primaryPartySystem = "default"
+playerConfigurablePlayerConfigOptions = ["claims.name", "claims.color"]
+opConfigurablePlayerConfigOptions = ["claims.bonusChunkClaims"]
+
+[serverConfig.parties]
+enabled = false
+maxPartyMembers = 64
+maxPartyAllies = 64
+maxPartyInvites = 16
+partyExpirationTime = 720
+partyExpirationCheckInterval = 360
+
+[serverConfig.claims]
+enabled = true
+playerClaimsExpirationTime = 99999
+playerClaimsExpirationCheckInterval = 360
+playerClaimsConvertExpiredClaims = true
+maxPlayerClaims = 256
+maxPlayerClaimForceloads = 0
+maxPlayerClaimsPermission = "xaero.pac_max_claims"
+maxPlayerClaimForceloadsPermission = "xaero.pac_max_forceloads"
+serverClaimPermission = "xaero.pac_server_claims"
+adminModePermission = "xaero.pac_admin_mode"
+maxClaimDistance = 8
+claimableDimensionsListType = "ALL_BUT"
+claimableDimensionsList = ["ae2:spatial_storage"]
+allowExistingClaimsInUnclaimableDimensions = false
+allowExistingForceloadsInUnclaimableDimensions = false
+claimsSynchronization = "ALL"
+
+[serverConfig.claims.protection]
+friendlyChunkProtectedEntityListType = "ONLY"
+friendlyChunkProtectedEntityList = []
+hostileChunkProtectedEntityListType = "ONLY"
+hostileChunkProtectedEntityList = []
+blockProtectionExceptionList = []
+entityProtectionExceptionList = []
+entityClaimBarrierList = []
+forcedBlockProtectionExceptionList = []
+blockProtectionOptionalExceptionGroups = []
+forcedEntityProtectionExceptionList = []
+entityProtectionOptionalExceptionGroups = []
+forcedEntityClaimBarrierList = []
+entityClaimBarrierOptionalGroups = []
+entitiesAllowedToGrief = []
+entitiesAllowedToGriefEntities = []
+entitiesAllowedToGriefDroppedItems = []
+nonBlockGriefingMobs = []
+entityGriefingMobs = []
+droppedItemGriefingMobs = []
+blockAccessEntityGroups = []
+entityAccessEntityGroups = []
+droppedItemAccessEntityGroups = []
+staticFakePlayers = []
+staticFakePlayerClassExceptions = []
+additionalBannedItemsList = []
+itemUseProtectionExceptionList = []
+itemUseProtectionOptionalExceptionGroups = []
+completelyDisabledItemInteractions = []
+completelyDisabledBlockInteractions = []
+completelyDisabledEntityInteractions = []
+completelyDisableFrostWalking = false
+reducedBoatEntityCollisions = true
