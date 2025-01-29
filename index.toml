@@ -118,6 +118,9 @@ metafile = true
 file = "config/ribbits-fabric-1_20_1.toml"
 
 [[files]]
+file = "config/rightclickharvest.json"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 preserve = true
 
@@ -126,6 +129,12 @@ file = "config/supplementaries-common.json"
 
 [[files]]
 file = "config/tectonic.json"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
 
 [[files]]
 file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"

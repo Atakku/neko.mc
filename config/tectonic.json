@@ -8,6 +8,7 @@
     "deeper_oceans": true,
     "desert_dunes": true,
     "lava_rivers": true,
+    "snow_start_offset": 128,
     "underground_rivers": true
   },
   "legacy": {
