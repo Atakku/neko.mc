@@ -657,23 +657,11 @@ file = "mods/testing/test2/create-power-loader-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/dcch.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/fog.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/full-grown-crop-marker.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/morechathistory.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/no-telemetry.pw.toml"
 metafile = true
 
 [[files]]
@@ -682,10 +670,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test2/stronger-snowballs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/structure-credits.pw.toml"
 metafile = true
 
 [[files]]
@@ -777,6 +761,10 @@ file = "mods/tweaks/gameplay/crops-love-rain.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/dcch.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
@@ -821,6 +809,10 @@ file = "mods/tweaks/gameplay/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/no-telemetry.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
 metafile = true
 
@@ -854,6 +846,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/structure-credits.pw.toml"
 metafile = true
 
 [[files]]
@@ -1049,6 +1045,10 @@ file = "mods/tweaks/visual/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/full-grown-crop-marker.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/highlight.pw.toml"
 metafile = true
 
@@ -1121,7 +1121,7 @@ file = "mods/utilities/xaeros/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/end/betterend.pw.toml"
+file = "mods/worldgen/end/ends-phantasm.pw.toml"
 metafile = true
 
 [[files]]
