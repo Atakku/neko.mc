@@ -414,9 +414,6 @@ file = "mods/libraries/balm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libraries/bclib.pw.toml.old"
-
-[[files]]
 file = "mods/libraries/cardinal-components-api.pw.toml"
 metafile = true
 
@@ -1136,25 +1133,15 @@ file = "mods/worldgen/nether/amplified-nether.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/nether/betternether.pw.toml.old"
-
-[[files]]
 file = "mods/worldgen/nether/cinderscapes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml.old"
+file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/worldgen/overworld/tectonic.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/overworld/terrestria.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/overworld/traverse.pw.toml"
 metafile = true
 
 [[files]]
