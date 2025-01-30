@@ -369,7 +369,15 @@ file = "mods/content/other/sleep-tight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/table-top-craft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/windchimes.pw.toml"
 metafile = true
 
 [[files]]
@@ -684,15 +692,15 @@ file = "mods/testing/test/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/armor-statues.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/better-end-sky.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/test2/create-food.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/cultural-delights-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -716,10 +724,6 @@ file = "mods/testing/test2/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/now-playing.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/potionparticlepack.pw.toml"
 metafile = true
 
@@ -728,11 +732,7 @@ file = "mods/testing/test2/show-me-what-you-got.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/straw-statues.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/windchimes.pw.toml"
+file = "mods/testing/test2/ubes-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -797,6 +797,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/aileron.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
@@ -1025,6 +1029,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/now-playing.pw.toml"
 metafile = true
 
 [[files]]
