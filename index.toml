@@ -629,6 +629,9 @@ file = "mods/testing/libs/yacl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test/_modern-train-parts.toml"
+
+[[files]]
 file = "mods/testing/test/chipped-x-create-fabric.pw.toml"
 metafile = true
 
@@ -641,6 +644,10 @@ file = "mods/testing/test/elytrabombing.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test/fog.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test/foggy-border.pw.toml"
 metafile = true
 
@@ -649,26 +656,71 @@ file = "mods/testing/test/lmft.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test/morechathistory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test/server-chat-log-history.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test/vivecraft-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/_modern-train-parts.toml"
-
-[[files]]
-file = "mods/testing/test2/fog.pw.toml"
+file = "mods/testing/test2/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/morechathistory.pw.toml"
+file = "mods/testing/test2/bellsandwhistles.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/server-chat-log-history.pw.toml"
+file = "mods/testing/test2/better-end-sky.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/vivecraft-compat.pw.toml"
+file = "mods/testing/test2/flower-patch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/gamemenuremovegfarb.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/mes-moogs-end-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/mns-moogs-nether-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/rotten-to-leather.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/show-me-what-you-got.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/snuffles-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/tiny-item-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/yungs-better-mineshafts.pw.toml"
 metafile = true
 
 [[files]]
