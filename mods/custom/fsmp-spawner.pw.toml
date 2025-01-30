@@ -1,15 +1,15 @@
 name = "fsmp-spawner"
-filename = "fsmp-spawner-0.2.1+1.20.1-server.jar"
+filename = "fsmp-spawner-0.3.0+1.20.1-server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/Atakku/fsmp-spawner/releases/download/mc1.20.1/v0.2.1/fsmp-spawner-0.2.1%2B1.20.1-server.jar"
+url = "https://github.com/Atakku/fsmp-spawner/releases/download/mc1.20.1/v0.3.0/fsmp-spawner-0.3.0%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "bdf4e76a050ef0e470911370808843f74281c9a9554492a177654ede8337e27b"
+hash = "000be2f0561586aadf510c807fc6a9542bd8dc963183073157ead7db76488b54"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "atakku/fsmp-spawner"
-tag = "mc1.20.1/v0.2.1"
+tag = "mc1.20.1/v0.3.0"
