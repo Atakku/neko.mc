@@ -216,6 +216,10 @@ file = "mods/content/create/create-cards.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-crystal-clear.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-deco.pw.toml"
 metafile = true
 
@@ -229,6 +233,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-power-loader-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -398,10 +406,6 @@ metafile = true
 
 [[files]]
 file = "mods/custom/fsmp-worldgen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hide-experimental-warning.pw.toml"
 metafile = true
 
 [[files]]
@@ -652,14 +656,6 @@ metafile = true
 file = "mods/testing/test2/_modern-train-parts.toml"
 
 [[files]]
-file = "mods/testing/test2/create-crystal-clear.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/create-power-loader-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/fog.pw.toml"
 metafile = true
 
@@ -669,14 +665,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test2/server-chat-log-history.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/stronger-snowballs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/vectorientation.pw.toml"
 metafile = true
 
 [[files]]
@@ -852,6 +840,10 @@ file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/stronger-snowballs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/structure-credits.pw.toml"
 metafile = true
 
@@ -1000,6 +992,10 @@ file = "mods/tweaks/menu/fancymenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/menu/hide-experimental-warning.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/menu/modmenu.pw.toml"
 metafile = true
 
@@ -1069,6 +1065,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/seamless.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/vectorientation.pw.toml"
 metafile = true
 
 [[files]]
