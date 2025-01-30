@@ -692,7 +692,19 @@ file = "mods/testing/test2/better-end-sky.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/create-food.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/door-knocking.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test2/flower-patch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/iris-flw-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -704,11 +716,23 @@ file = "mods/testing/test2/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/now-playing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/potionparticlepack.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test2/show-me-what-you-got.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/test2/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/windchimes.pw.toml"
 metafile = true
 
 [[files]]
