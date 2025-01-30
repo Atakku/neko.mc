@@ -1,15 +1,15 @@
 name = "fsmp-worldgen"
-filename = "fsmp-worldgen-0.4.0+1.20.1-server.jar"
+filename = "fsmp-worldgen-0.4.1+1.20.1-server.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Atakku/fsmp-worldgen/releases/download/mc1.20.1/v0.4.0/fsmp-worldgen-0.4.0%2B1.20.1-server.jar"
+url = "https://github.com/Atakku/fsmp-worldgen/releases/download/mc1.20.1/v0.4.1/fsmp-worldgen-0.4.1%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "8ef98fb7e86c860f0e86efcab31790caac494e91368a89fbe6f35fc96991c3af"
+hash = "2f1d71cbf0c07d4192d1c1d14afe8d3fc11b6c379202923d8e378d1c89e6d0eb"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "atakku/fsmp-worldgen"
-tag = "mc1.20.1/v0.4.0"
+tag = "mc1.20.1/v0.4.1"
