@@ -208,6 +208,10 @@ file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
@@ -325,6 +329,10 @@ file = "mods/content/mobs/ribbits.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/snuffles-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/species.pw.toml"
 metafile = true
 
@@ -350,6 +358,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/other/mighty-mail.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
 metafile = true
 
 [[files]]
@@ -676,10 +688,6 @@ file = "mods/testing/test2/armor-statues.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/bellsandwhistles.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/better-end-sky.pw.toml"
 metafile = true
 
@@ -688,15 +696,7 @@ file = "mods/testing/test2/flower-patch.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/gamemenuremovegfarb.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/mes-moogs-end-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/mmmmmmmmmmmm.pw.toml"
 metafile = true
 
 [[files]]
@@ -704,19 +704,11 @@ file = "mods/testing/test2/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/rotten-to-leather.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/show-me-what-you-got.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/snuffles-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/tiny-item-animations.pw.toml"
+file = "mods/testing/test2/straw-statues.pw.toml"
 metafile = true
 
 [[files]]
@@ -868,6 +860,10 @@ file = "mods/tweaks/gameplay/rightclickharvest.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/rotten-to-leather.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/screenshot-to-clipboard.pw.toml"
 metafile = true
 
@@ -965,6 +961,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/tiny-item-animations.pw.toml"
 metafile = true
 
 [[files]]
