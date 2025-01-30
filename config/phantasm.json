@@ -1,0 +1,9 @@
+{
+  "gameplay": {
+    "outer_end_in_gameloop": false
+  },
+  "equipment": {
+    "elytra_boost_advancement": ""
+  },
+  "chorus_fruit_salad_teleportation": false
+}

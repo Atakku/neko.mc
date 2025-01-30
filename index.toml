@@ -115,6 +115,9 @@ file = "config/paxi/resourcepacks/fsmp-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/phantasm.json"
+
+[[files]]
 file = "config/ribbits-fabric-1_20_1.toml"
 
 [[files]]
@@ -395,6 +398,10 @@ metafile = true
 
 [[files]]
 file = "mods/custom/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hide-experimental-warning.pw.toml"
 metafile = true
 
 [[files]]
