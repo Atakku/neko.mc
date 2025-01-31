@@ -171,11 +171,11 @@ file = "mods/content/applied-energistics/powerae2cc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/build-deco/chipped.pw.toml"
+file = "mods/content/build-deco/_dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/build-deco/dramatic-doors.pw.toml"
+file = "mods/content/build-deco/chipped.pw.toml"
 metafile = true
 
 [[files]]
