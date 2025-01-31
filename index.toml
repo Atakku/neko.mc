@@ -143,6 +143,10 @@ file = "config/xaerominimap-common.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
+file = "mods/bunk-beds.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
@@ -776,6 +780,22 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test/yungs-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/another-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/flower-power.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/mcr_blahaj.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/plushables.pw.toml"
 metafile = true
 
 [[files]]
