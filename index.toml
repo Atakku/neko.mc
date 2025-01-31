@@ -187,6 +187,10 @@ file = "mods/content/build-deco/grass-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/led.pw.toml"
 metafile = true
 
@@ -196,6 +200,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/build-deco/shutters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/snowy-spirit.pw.toml"
 metafile = true
 
 [[files]]
@@ -771,22 +779,6 @@ file = "mods/testing/test/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/companion.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/explosive-enhancement.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/handcrafted.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/snowy-spirit.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/voice/analog.pw.toml"
 metafile = true
 
@@ -852,6 +844,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/companion.pw.toml"
 metafile = true
 
 [[files]]
@@ -1184,6 +1180,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/explosive-enhancement.pw.toml"
 metafile = true
 
 [[files]]
