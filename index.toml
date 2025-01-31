@@ -755,6 +755,18 @@ file = "mods/testing/test/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/ae2-network-analyser.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/glodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/shutters.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/voice/analog.pw.toml"
 metafile = true
 

@@ -1,0 +1,13 @@
+name = "AE2 Network Analyser"
+filename = "AE2NetworkAnalyzer-1.20-1.0.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbebdfc78abec542e6ee78928f4234d3b5ef8ee0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5266839
+project-id = 961856

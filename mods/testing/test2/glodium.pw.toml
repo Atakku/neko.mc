@@ -1,0 +1,13 @@
+name = "Glodium"
+filename = "Glodium-1.20-1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UhW5uCKw/versions/sIc0jtl4/Glodium-1.20-1.1-fabric.jar"
+hash-format = "sha1"
+hash = "5c20bcfd89226a8bb00bc6ef93f93e4bcdca7657"
+
+[update]
+[update.modrinth]
+mod-id = "UhW5uCKw"
+version = "sIc0jtl4"
