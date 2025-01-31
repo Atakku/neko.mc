@@ -1,0 +1,13 @@
+name = "VS Addition"
+filename = "vs_addition-1.20.1-0.0.10+2fafdfabbc.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nR8D9Tc2/versions/a7n43YYk/vs_addition-1.20.1-0.0.10%2B2fafdfabbc.jar"
+hash-format = "sha1"
+hash = "7ac3852618ee26e1057c2639c03a4f43db1934d8"
+
+[update]
+[update.modrinth]
+mod-id = "nR8D9Tc2"
+version = "a7n43YYk"
