@@ -747,14 +747,6 @@ file = "mods/testing/test2/grass-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/mes-moogs-end-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/mns-moogs-nether-structures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/necronomicon.pw.toml"
 metafile = true
 
@@ -1255,6 +1247,10 @@ file = "mods/worldgen/end/ends-phantasm.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/end/mes-moogs-end-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/end/nullscape.pw.toml"
 metafile = true
 
@@ -1267,6 +1263,14 @@ file = "mods/worldgen/nether/cinderscapes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/nether/mns-moogs-nether-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/bettervillages.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
 metafile = true
 
@@ -1275,39 +1279,35 @@ file = "mods/worldgen/overworld/tectonic.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/structures/bettervillages.pw.toml"
+file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/structures/yungs-better-desert-temples.pw.toml"
+file = "mods/worldgen/yungs/yungs-better-end-island.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/structures/yungs-better-end-island.pw.toml"
+file = "mods/worldgen/yungs/yungs-better-jungle-temples.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/structures/yungs-better-jungle-temples.pw.toml"
+file = "mods/worldgen/yungs/yungs-better-mineshafts.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/structures/yungs-better-mineshafts.pw.toml"
+file = "mods/worldgen/yungs/yungs-better-nether-fortresses.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/structures/yungs-better-nether-fortresses.pw.toml"
+file = "mods/worldgen/yungs/yungs-better-ocean-monuments.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/structures/yungs-better-ocean-monuments.pw.toml"
+file = "mods/worldgen/yungs/yungs-better-strongholds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/structures/yungs-better-strongholds.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/structures/yungs-better-witch-huts.pw.toml"
+file = "mods/worldgen/yungs/yungs-better-witch-huts.pw.toml"
 metafile = true
 
 [[files]]
