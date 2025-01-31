@@ -268,10 +268,6 @@ file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/farmers-delight/nethers-delight-refabricated.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/hex-casting/_hexal.toml"
 
 [[files]]
@@ -641,6 +637,46 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/delight/create-food.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/cultural-creators-fabric-create-and-cultural.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/cultural-delights-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/delightful-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/farmers-respite-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/frights-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/my-nethers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/respite-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/delight/ubes-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/libs/unilib.pw.toml"
 metafile = true
 
@@ -696,23 +732,7 @@ file = "mods/testing/test2/better-end-sky.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test2/create-food.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/cultural-delights-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test2/door-knocking.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/flower-patch.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/iris-flw-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -729,10 +749,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test2/show-me-what-you-got.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/ubes-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -829,6 +845,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/flower-patch.pw.toml"
 metafile = true
 
 [[files]]
@@ -1133,6 +1153,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/highlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/iris-flw-compat.pw.toml"
 metafile = true
 
 [[files]]
