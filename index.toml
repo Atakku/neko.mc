@@ -576,6 +576,10 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-chiseled-bookshelf-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/async-locator.pw.toml"
 metafile = true
 
@@ -641,6 +645,10 @@ metafile = true
 
 [[files]]
 file = "mods/performance/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
 metafile = true
 
 [[files]]
@@ -760,6 +768,14 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test2/glodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/led.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/shimmer!.pw.toml"
 metafile = true
 
 [[files]]
