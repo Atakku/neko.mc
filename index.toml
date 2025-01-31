@@ -106,6 +106,10 @@ file = "config/hexcasting/server.json"
 file = "config/openpartiesandclaims-server.toml"
 
 [[files]]
+file = "config/paxi/datapacks/create-fabric-computercraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
 metafile = true
 
@@ -203,6 +207,14 @@ file = "mods/content/build-deco/more-chiseled-bookshelf-variants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/nightlights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/plushables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/shutters.pw.toml"
 metafile = true
 
@@ -236,6 +248,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/computer-craft/ducky-periphs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/embeddedcomputer.pw.toml"
 metafile = true
 
 [[files]]
@@ -300,6 +316,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-train-perspective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
@@ -660,6 +680,10 @@ file = "mods/libraries/sushi-bar.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/tcdcommons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
@@ -743,7 +767,8 @@ metafile = true
 file = "mods/testing/test/_modern-train-parts.toml"
 
 [[files]]
-file = "mods/testing/test/create_oxidized.toml"
+file = "mods/testing/test/create-pantographs-and-wires.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/testing/test/door-knocking.pw.toml"
@@ -783,14 +808,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test/yungs-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/nightlights.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/plushables.pw.toml"
 metafile = true
 
 [[files]]
@@ -1082,6 +1099,10 @@ file = "mods/tweaks/hud/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/better-ping-display-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/chat-heads.pw.toml"
 metafile = true
 
@@ -1119,6 +1140,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/menu/auth-me.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/better-stats.pw.toml"
 metafile = true
 
 [[files]]
