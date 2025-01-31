@@ -3,11 +3,16 @@ filename = "cultural-creators-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b17673dd38f74ec807417e582e3dc4b1ca2c12fc"
-mode = "metadata:curseforge"
+url = "https://pwcdn.fem.place/cultural-creators-1.1.0.jar"
+hash-format = "sha256"
+hash = "231144393810b1d8513f2bfaefc84d07b6b8fd12008cdbc7d041c1cc6d03c762"
 
-[update]
-[update.curseforge]
-file-id = 5533042
-project-id = 953832
+#[download]
+#hash-format = "sha1"
+#hash = "b17673dd38f74ec807417e582e3dc4b1ca2c12fc"
+#mode = "metadata:curseforge"
+#
+#[update]
+#[update.curseforge]
+#file-id = 5533042
+#project-id = 953832

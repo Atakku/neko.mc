@@ -58,6 +58,9 @@ preserve = true
 file = "config/create-server.toml"
 
 [[files]]
+file = "config/createfood.json5"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 
 [[files]]
