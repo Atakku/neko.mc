@@ -171,11 +171,11 @@ file = "mods/content/applied-energistics/powerae2cc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/build-deco/_dramatic-doors.pw.toml"
+file = "mods/content/build-deco/chipped.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/build-deco/chipped.pw.toml"
+file = "mods/content/build-deco/dramatic-door.pw.toml"
 metafile = true
 
 [[files]]
@@ -772,22 +772,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/voice/voicechat-soundboard.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/vs/cc-vs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/vs/create-clockwork.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/vs/valkyrien-skies.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/vs/vs-addition.pw.toml"
 metafile = true
 
 [[files]]
