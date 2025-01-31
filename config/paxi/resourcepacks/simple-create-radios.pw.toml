@@ -1,0 +1,13 @@
+name = "Simple Create Radios"
+filename = "Simple Create Radios V1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FeyRzQr8/versions/KFEw7pyk/Simple%20Create%20Radios%20V1.2.zip"
+hash-format = "sha1"
+hash = "0aba0ec744970e732a5a134ae8fed2f29968e95b"
+
+[update]
+[update.modrinth]
+mod-id = "FeyRzQr8"
+version = "KFEw7pyk"

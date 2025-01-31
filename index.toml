@@ -122,6 +122,10 @@ file = "config/paxi/resourcepacks/fsmp-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/simple-create-radios.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/phantasm.json"
 
 [[files]]
@@ -261,6 +265,9 @@ metafile = true
 [[files]]
 file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/content/create/_create-pantographs-and-wire.toml"
 
 [[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
@@ -568,6 +575,14 @@ file = "mods/libraries/cristel-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/fabric-api.pw.toml"
 metafile = true
 
@@ -764,13 +779,6 @@ file = "mods/testing/libs/yacl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test/_modern-train-parts.toml"
-
-[[files]]
-file = "mods/testing/test/create-pantographs-and-wires.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test/door-knocking.pw.toml"
 metafile = true
 
@@ -808,6 +816,70 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test/yungs-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/ledger-databases.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/ledger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/watson.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/adorabuild-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/beautify-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/betterf3.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/bountiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/diet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/explorify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/kambrik.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/lexiconfig.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/metal-bundles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/paginatedadvancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/pick-up-notifier.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/simple-voice-radio.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test3/snow-under-trees-remastered.pw.toml"
 metafile = true
 
 [[files]]
