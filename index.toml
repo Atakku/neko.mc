@@ -771,6 +771,22 @@ file = "mods/testing/test/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/companion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/explosive-enhancement.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/test2/snowy-spirit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/voice/analog.pw.toml"
 metafile = true
 
