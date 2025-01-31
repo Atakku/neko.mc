@@ -827,6 +827,10 @@ file = "mods/testing/test2/ledger.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test2/malilib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test2/watson.pw.toml"
 metafile = true
 
