@@ -147,6 +147,10 @@ file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/applied-energistics/ae2-network-analyser.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -180,6 +184,18 @@ metafile = true
 
 [[files]]
 file = "mods/content/build-deco/grass-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/led.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/more-chiseled-bookshelf-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/shutters.pw.toml"
 metafile = true
 
 [[files]]
@@ -220,6 +236,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/chipped-x-create-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -492,6 +512,10 @@ file = "mods/libraries/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/glodium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/inline.pw.toml"
 metafile = true
 
@@ -556,6 +580,10 @@ file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/quad.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/resourceful-config.pw.toml"
 metafile = true
 
@@ -573,10 +601,6 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-chiseled-bookshelf-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -648,10 +672,6 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/quad.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/delight/create-food.pw.toml"
 metafile = true
 
@@ -703,18 +723,6 @@ metafile = true
 file = "mods/testing/test/_modern-train-parts.toml"
 
 [[files]]
-file = "mods/testing/test/biome-moss.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/biome-tinted-flowers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/chipped-x-create-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test/create_oxidized.pw.toml"
 metafile = true
 
@@ -728,10 +736,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test/fog.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/foggy-border.pw.toml"
 metafile = true
 
 [[files]]
@@ -755,31 +759,15 @@ file = "mods/testing/test/server-chat-log-history.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/test/slice-and-dice.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/test/vivecraft-compat.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/test/yungs-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/ae2-network-analyser.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/glodium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/led.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/shimmer!.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/shutters.pw.toml"
 metafile = true
 
 [[files]]
