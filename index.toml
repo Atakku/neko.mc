@@ -271,6 +271,10 @@ file = "mods/content/create/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-food.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-power-loader-fabric.pw.toml"
 metafile = true
 
@@ -287,7 +291,23 @@ file = "mods/content/create/create-train-perspective.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/cultural-creators-fabric-create-and-cultural.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/delightful-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/interiors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/slice-and-dice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/cultural-delights-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -295,7 +315,31 @@ file = "mods/content/farmers-delight/ends-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/farmers-respite-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/frights-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/my-nethers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/respite-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/ubes-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -672,46 +716,6 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/delight/create-food.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/cultural-creators-fabric-create-and-cultural.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/cultural-delights-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/delightful-creators-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/expanded-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/farmers-respite-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/frights-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/my-nethers-delight-refabricated.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/respite-creators-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/delight/ubes-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/libs/unilib.pw.toml"
 metafile = true
 
@@ -756,10 +760,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/test/server-chat-log-history.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
