@@ -1,0 +1,13 @@
+name = "Biome Moss"
+filename = "biomemoss-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AGwutJJF/versions/fRc4IXHA/biomemoss-1.1.0.jar"
+hash-format = "sha1"
+hash = "9186cfc571f8c6e03cf7392cebfa121fe41aee1b"
+
+[update]
+[update.modrinth]
+mod-id = "AGwutJJF"
+version = "fRc4IXHA"
