@@ -1,13 +1,13 @@
 name = "Grass Overhaul"
-filename = "Grass_Overhaul-Fabric-23.10.11-MC1.20.1.jar"
+filename = "GrassOverhaul-Fabric-1.20.1-v25.01.31.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Eeb4VkF6/versions/FtCpv6D4/Grass_Overhaul-Fabric-23.10.11-MC1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Eeb4VkF6/versions/t2NIt8Pe/GrassOverhaul-Fabric-1.20.1-v25.01.31.jar"
 hash-format = "sha1"
-hash = "1b5d8a77727e4fdb07b6929a42b3f8c21e3f5a79"
+hash = "6f34f8fd97556fd92e0d622dc1cb0986fed8f79f"
 
 [update]
 [update.modrinth]
 mod-id = "Eeb4VkF6"
-version = "FtCpv6D4"
+version = "t2NIt8Pe"
