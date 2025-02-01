@@ -109,10 +109,6 @@ file = "config/hexcasting/server.json"
 file = "config/openpartiesandclaims-server.toml"
 
 [[files]]
-file = "config/paxi/datapacks/create-fabric-computercraft.pw.toml"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
 metafile = true
 
