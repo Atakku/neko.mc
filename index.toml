@@ -117,6 +117,10 @@ file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/create-fabric-computercraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
@@ -454,6 +458,10 @@ file = "mods/content/other/advancement-frames.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/bountiful.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/endrem.pw.toml"
 metafile = true
 
@@ -530,8 +538,7 @@ file = "mods/custom/fsmp-bridge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom/fsmp-nbg.pw.toml"
-metafile = true
+file = "mods/custom/fsmp-nbg.toml"
 
 [[files]]
 file = "mods/custom/fsmp-restarter.pw.toml"
@@ -542,15 +549,15 @@ file = "mods/custom/fsmp-spawner.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/custom/fsmp-structurefix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom/fsmp-whitelist.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/custom/fsmp-worldgen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fsmp-structurefix.pw.toml"
 metafile = true
 
 [[files]]
@@ -647,6 +654,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/libraryferret.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/malilib.pw.toml"
 metafile = true
 
 [[files]]
@@ -790,23 +801,19 @@ file = "mods/performance/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/libs/kambrik.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/libs/necronomicon.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/libs/unilib.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/libs/yacl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/door-knocking.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/elytrabombing.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/fog.pw.toml"
 metafile = true
 
 [[files]]
@@ -818,63 +825,7 @@ file = "mods/testing/test/morechathistory.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test/necronomicon.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/potionparticlepack.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test/server-chat-log-history.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/vivecraft-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/yungs-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/ledger-databases.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/ledger.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/malilib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test2/watson.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/adorabuild-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/beautify-refabricated.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/bountiful.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/explorify.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/kambrik.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test3/snow-under-trees-remastered.pw.toml"
 metafile = true
 
 [[files]]
@@ -970,6 +921,14 @@ file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/door-knocking.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/elytrabombing.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/flower-patch.pw.toml"
 metafile = true
 
@@ -1058,6 +1017,10 @@ file = "mods/tweaks/gameplay/snow-real-magic.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/snow-under-trees-remastered.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/softer-hay-bales.pw.toml"
 metafile = true
 
@@ -1079,6 +1042,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/vivecraft-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -1382,6 +1349,18 @@ file = "mods/utilities/invview.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/ledger/ledger-databases.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/ledger/ledger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/ledger/watson.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/opac/opac-fabric-create-support.pw.toml"
 metafile = true
 
@@ -1430,6 +1409,10 @@ file = "mods/worldgen/nether/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/overworld/adorabuild-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/overworld/bettervillages.pw.toml"
 metafile = true
 
@@ -1471,6 +1454,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yungs/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
