@@ -166,6 +166,10 @@ file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/applied-energistics/ae2-mousetweaks-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-network-analyser.pw.toml"
 metafile = true
 
@@ -1367,6 +1371,10 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/create-track-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/fastback.pw.toml"
 metafile = true
 
 [[files]]
