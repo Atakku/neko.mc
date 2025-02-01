@@ -538,7 +538,8 @@ file = "mods/custom/fsmp-bridge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom/fsmp-nbg.toml"
+file = "mods/custom/fsmp-nbg.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/custom/fsmp-restarter.pw.toml"
