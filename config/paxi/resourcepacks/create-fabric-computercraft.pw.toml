@@ -1,0 +1,13 @@
+name = "Create Fabric: ComputerCraft"
+filename = "Create Computers Fabric Resource Pack 1.2.1 - 1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Pe20w4f/versions/olwayfOB/Create%20Computers%20Fabric%20Resource%20Pack%201.2.1%20-%201.20.1.zip"
+hash-format = "sha1"
+hash = "e96719b331c5b1196e626fc6519420d00888434b"
+
+[update]
+[update.modrinth]
+mod-id = "6Pe20w4f"
+version = "olwayfOB"
