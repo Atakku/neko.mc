@@ -27,3 +27,17 @@ key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.unknown:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown:NONE
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown:NONE
+key_key.do_a_barrel_roll.thrust_forward:key.keyboard.unknown:NONE
+key_gui.xaero_open_settings:key.keyboard.unknown:NONE
+key_key.elytratime.show:key.keyboard.unknown:NONE
+key_key.elytratime.config:key.keyboard.unknown:NONE
+key_figura.config.action_wheel_button:key.keyboard.unknown:NONE
+key_key.jade.config:key.keyboard.unknown:NONE
+key_key.jade.show_overlay:key.keyboard.unknown:NONE
+key_key.jade.toggle_liquid:key.keyboard.unknown:NONE
+key_key.cycleLeft:key.keyboard.unknown:NONE
+key_key.cycleRight:key.keyboard.unknown:NONE
+key_soundboard.keybinds.browser:key.keyboard.r:NONE
+key_supplementaries.keybind.quiver:key.keyboard.n:NONE
+key_gui.xaero_waypoints_key:key.keyboard.unknown:NONE
+key_gui.xaero_instant_waypoint:key.keyboard.unknown:NONE
