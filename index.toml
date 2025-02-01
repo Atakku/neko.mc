@@ -353,6 +353,10 @@ file = "mods/content/create/interiors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/liquid-burner.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/slice-and-dice.pw.toml"
 metafile = true
 
