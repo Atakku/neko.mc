@@ -1,6 +1,6 @@
 name = "fsmp-worldgen"
 filename = "fsmp-worldgen-0.4.8+1.20.1-server.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://github.com/Atakku/fsmp-worldgen/releases/download/mc1.20.1/v0.4.8/fsmp-worldgen-0.4.8%2B1.20.1-server.jar"
