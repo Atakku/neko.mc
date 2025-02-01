@@ -14,5 +14,5 @@ version = "7WkFnw9F"
 
 [option]
 optional = true
-default = true
+default = false
 description = "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD."
