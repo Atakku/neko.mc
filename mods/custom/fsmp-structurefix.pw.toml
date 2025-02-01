@@ -1,0 +1,15 @@
+name = "fsmp-structurefix"
+filename = "fsmp-structurefix-0.2.1+1.20.1-server.jar"
+side = "server"
+
+[download]
+url = "https://github.com/Atakku/fsmp-structurefix/releases/download/mc1.20.1/v0.2.1/fsmp-structurefix-0.2.1%2B1.20.1-server.jar"
+hash-format = "sha256"
+hash = "797b496a6f494c17a7e9176ba0a0636c48e1338ef193de265513e8aa8662ad91"
+
+[update]
+[update.github]
+branch = "1.20.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Atakku/fsmp-structurefix"
+tag = "mc1.20.1/v0.2.1"
