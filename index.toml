@@ -642,6 +642,10 @@ file = "mods/libraries/jamlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/kambrik.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/kiwi.pw.toml"
 metafile = true
 
@@ -655,6 +659,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/libraryferret.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/lmft.pw.toml"
 metafile = true
 
 [[files]]
@@ -730,6 +738,10 @@ file = "mods/libraries/tcdcommons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/unilib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
@@ -799,30 +811,6 @@ metafile = true
 
 [[files]]
 file = "mods/performance/vmp-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libs/kambrik.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libs/necronomicon.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libs/unilib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/libs/yacl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/lmft.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/test/server-chat-log-history.pw.toml"
 metafile = true
 
 [[files]]
