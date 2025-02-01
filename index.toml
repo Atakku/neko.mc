@@ -154,6 +154,10 @@ file = "config/xaerominimap-common.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
+file = "mods/botarium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
@@ -290,6 +294,14 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-cards.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-cobblestone-deepslate-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-cobblestone.pw.toml"
 metafile = true
 
 [[files]]
@@ -563,6 +575,10 @@ metafile = true
 
 [[files]]
 file = "mods/custom/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
 metafile = true
 
 [[files]]
@@ -1311,6 +1327,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/voice/simple-voice-radio.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/voice-chat-interaction.pw.toml"
 metafile = true
 
 [[files]]
