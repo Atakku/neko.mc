@@ -11,3 +11,8 @@ hash = "ed0383ed8c68e1d1cbfc61267afee028d8a4d7fe"
 [update.modrinth]
 mod-id = "8shC1gFX"
 version = "7WkFnw9F"
+
+[option]
+optional = true
+default = true
+description = "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD."

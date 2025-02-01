@@ -15,3 +15,4 @@ version = "mYl4RvKg"
 [option]
 optional = true
 default = true
+description = "Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod for Fabric."

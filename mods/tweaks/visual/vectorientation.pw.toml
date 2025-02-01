@@ -11,3 +11,8 @@ hash = "331d92c85d2e9ff4622fa963e040ba315db70b18"
 [update.modrinth]
 mod-id = "NpPKJQg6"
 version = "y9SK1Hsk"
+
+[option]
+optional = true
+default = true
+description = "Rotates falling blocks in towards where they're heading, with configurable squash & stretch"

@@ -11,3 +11,8 @@ hash = "632bdfb31cf944cc7cb6ce96c8ed53d8bfab1c49"
 [update.modrinth]
 mod-id = "zB8NzHon"
 version = "ggNJLADG"
+
+[option]
+optional = true
+default = true
+description = "Adds a little marker over all crops that are at their maximum age!"

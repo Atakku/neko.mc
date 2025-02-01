@@ -15,3 +15,4 @@ version = "nmf6Pzbc"
 [option]
 optional = true
 default = true
+description = "This mod adds ambient color noise to the biome colors of the game. This means that things like grass, water, and leaves will have very subtle differences in color based on where they are in the world. This noise helps the world seem more varied and alive. This is based on a similar feature from the Bedrock version of the game."

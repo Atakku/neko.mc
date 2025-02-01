@@ -11,3 +11,8 @@ hash = "5714ec9fb4fac05cec51494a8ffa0d43ffca527f"
 [update.modrinth]
 mod-id = "Vz96hXMh"
 version = "4TlGcdsH"
+
+[option]
+optional = true
+default = true
+description = "Highlight changes the visualization of specific blocks in the game to have more aligned selections to their models."

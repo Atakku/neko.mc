@@ -20,3 +20,4 @@ hash = "73e02d20d44dd8133aae77901e2fb09a3b32e77cca693f610a88ea993652df3a"
 [option]
 optional = true
 default = true
+description = "Enhances Minecraft's ambience with hand-crafted visual effects like fireflies, falling leaves, and waterfall cascades"

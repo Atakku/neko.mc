@@ -11,3 +11,8 @@ hash = "f0dbd071eb0241aecc5b23b8bc1695ce0b89c781"
 [update.modrinth]
 mod-id = "DCWEXia7"
 version = "ggNG0iQZ"
+
+[option]
+optional = true
+default = true
+description = "A customizable astronomy mod. Adds real life stars, dynamic planets, a moving moon with eclipses and shooting stars."

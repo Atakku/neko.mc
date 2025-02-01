@@ -11,3 +11,8 @@ hash = "42e582de11674c68d564c2f314ed115418ad71bd"
 [update.modrinth]
 mod-id = "SgJ1iW80"
 version = "7Hl03yPV"
+
+[option]
+optional = true
+default = true
+description = "Ripoff of the Better End mod's sky renderer in a standalone mod for a client-side only usage."

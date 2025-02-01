@@ -11,3 +11,8 @@ hash = "a4a5fc1edae49126432fc903dd6fdbb88b7251ed"
 [update.modrinth]
 mod-id = "rI0hvYcd"
 version = "uhvQD6Ny"
+
+[option]
+optional = true
+default = true
+description = "Little visual improvements by adding a bunch of new particles."

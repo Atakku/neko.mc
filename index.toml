@@ -154,10 +154,6 @@ file = "config/xaerominimap-common.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
-file = "mods/botarium.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
@@ -358,6 +354,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/delightful-creators-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/estrogen.pw.toml"
 metafile = true
 
 [[files]]
@@ -578,10 +578,6 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -595,6 +591,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/botarium.pw.toml"
 metafile = true
 
 [[files]]
