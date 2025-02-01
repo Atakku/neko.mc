@@ -194,6 +194,10 @@ file = "mods/content/build-deco/another-furniture.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/beautify-refabricated.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/chipped.pw.toml"
 metafile = true
 
@@ -821,10 +825,6 @@ file = "mods/testing/test/lmft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/test/morechathistory.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/test/server-chat-log-history.pw.toml"
 metafile = true
 
@@ -966,6 +966,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/morechathistory.pw.toml"
 metafile = true
 
 [[files]]
