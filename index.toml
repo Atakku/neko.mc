@@ -67,7 +67,7 @@ file = "config/defaultoptions/keybindings.txt"
 file = "config/defaultoptions/options.txt"
 
 [[files]]
-file = "config/dient-client.toml"
+file = "config/diet-client.toml"
 
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
@@ -330,6 +330,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-train-perspective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-vibrant-vaults.pw.toml"
 metafile = true
 
 [[files]]
