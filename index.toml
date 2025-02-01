@@ -103,6 +103,10 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 file = "config/fancymenu/options.txt"
 
 [[files]]
+file = "config/figura.json"
+preserve = true
+
+[[files]]
 file = "config/hexcasting/server.json"
 
 [[files]]
@@ -146,6 +150,10 @@ file = "config/supplementaries-common.json"
 
 [[files]]
 file = "config/tectonic.json"
+
+[[files]]
+file = "config/vivecraft-client-config.json"
+preserve = true
 
 [[files]]
 file = "config/xaerominimap-common.txt"

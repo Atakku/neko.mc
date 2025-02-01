@@ -1,0 +1,14 @@
+{
+  "CONFIG_VERSION": 1,
+  "sound_badge": false,
+  "chat_nameplate": 0,
+  "entity_nameplate": 0,
+  "list_nameplate": 0,
+  "action_wheel_button": "key.keyboard.f",
+  "figura_inventory": false,
+  "popup_button": "key.keyboard.unknown",
+  "update_channel": 0,
+  "default_permission_level": 4,
+  "emojis": 0,
+  "server_ip": "figura.fem.place"
+}
