@@ -978,6 +978,10 @@ file = "mods/tweaks/gameplay/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/no-enderman-grief.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/no-telemetry.pw.toml"
 metafile = true
 
