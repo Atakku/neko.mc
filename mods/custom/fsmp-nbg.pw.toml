@@ -1,15 +1,15 @@
 name = "fsmp-nbg"
-filename = "fsmp-nbg-0.1.5+1.20.1-server.jar"
+filename = "fsmp-nbg-0.1.6+1.20.1-server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/Atakku/fsmp-nbg/releases/download/mc1.20.1/v0.1.5/fsmp-nbg-0.1.5%2B1.20.1-server.jar"
+url = "https://github.com/Atakku/fsmp-nbg/releases/download/mc1.20.1/v0.1.6/fsmp-nbg-0.1.6%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "966130ec4d6f8061f5e51a99ec2610f031a2a39336f84fd5d65496cc018679c5"
+hash = "a63f9fc8052ec90cb68ee136b29af55cd37bf6345adb6359a8fad398c90f3585"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "Atakku/fsmp-nbg"
-tag = "mc1.20.1/v0.1.5"
+tag = "mc1.20.1/v0.1.6"
