@@ -773,6 +773,10 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/adaptiveview.pw.toml"
 metafile = true
 
