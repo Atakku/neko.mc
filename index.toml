@@ -104,7 +104,6 @@ file = "config/fancymenu/options.txt"
 
 [[files]]
 file = "config/figura.json"
-preserve = true
 
 [[files]]
 file = "config/hexcasting/server.json"
