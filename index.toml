@@ -590,10 +590,6 @@ file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/inventory-essentials.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -779,6 +775,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/adaptiveview.pw.toml"
 metafile = true
 
 [[files]]
@@ -1111,6 +1111,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gui/idwtialsimmoedm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/inventory-essentials.pw.toml"
 metafile = true
 
 [[files]]

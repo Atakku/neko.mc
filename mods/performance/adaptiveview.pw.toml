@@ -1,0 +1,13 @@
+name = "AdaptiveView"
+filename = "adaptiveview-2.3.1+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xZvyOrQr/versions/QngZlnJx/adaptiveview-2.3.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "def712235045584e7d0cf4fe02f9ef4d1e6feb8f"
+
+[update]
+[update.modrinth]
+mod-id = "xZvyOrQr"
+version = "QngZlnJx"
