@@ -11,3 +11,8 @@ hash = "799268adcb25eceab35ca7df96415186221771c9"
 [update.modrinth]
 mod-id = "u5Ic2U1u"
 version = "wPtDzPBH"
+
+[option]
+optional = true
+default = true
+description = "A small clientside mod to enable various mouse wheel related actions. Features item scrolling, inventory sorting, item refilling and much more!"
