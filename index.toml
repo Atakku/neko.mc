@@ -913,6 +913,10 @@ file = "mods/tweaks/gameplay/companion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/configurable-despawn-timer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/connectiblechains.pw.toml"
 metafile = true
 
