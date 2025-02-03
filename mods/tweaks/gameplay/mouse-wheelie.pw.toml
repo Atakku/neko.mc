@@ -1,6 +1,6 @@
 name = "Mouse Wheelie"
 filename = "mousewheelie-1.13.0+mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/wPtDzPBH/mousewheelie-1.13.0%2Bmc1.20.1.jar"
