@@ -4,7 +4,7 @@
   "chat_nameplate": 0,
   "entity_nameplate": 0,
   "list_nameplate": 0,
-  "action_wheel_button": "key.keyboard.r",
+  "action_wheel_button": "key.keyboard.g",
   "figura_inventory": false,
   "popup_button": "key.keyboard.unknown",
   "update_channel": 0,
