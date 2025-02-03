@@ -1442,14 +1442,6 @@ file = "mods/worldgen/end/nullscape.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/nether/amplified-nether.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldgen/nether/cinderscapes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/worldgen/nether/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
@@ -1470,9 +1462,6 @@ file = "mods/worldgen/overworld/tectonic.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldgen/yungs/_yungs-better-nether-fortresses.toml"
-
-[[files]]
 file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
 metafile = true
 
@@ -1486,6 +1475,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen/yungs/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-nether-fortresses.pw.toml"
 metafile = true
 
 [[files]]
