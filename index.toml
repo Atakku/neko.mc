@@ -38,9 +38,6 @@ file = "config/chatimageconfig.json"
 preserve = true
 
 [[files]]
-file = "config/chunky/config.json"
-
-[[files]]
 file = "config/collective/checked.txt"
 
 [[files]]
@@ -994,6 +991,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/morechathistory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/mouse-wheelie.pw.toml"
 metafile = true
 
 [[files]]
