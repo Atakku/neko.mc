@@ -1442,6 +1442,10 @@ file = "mods/worldgen/end/nullscape.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/nether/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/nether/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
