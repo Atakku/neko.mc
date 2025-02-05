@@ -1282,6 +1282,10 @@ file = "mods/tweaks/player/figurasvc.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/player/figvra.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/player/wavey-capes.pw.toml"
 metafile = true
 

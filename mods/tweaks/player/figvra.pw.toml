@@ -1,0 +1,7 @@
+name = "figvra"
+filename = "figvra-0.3.0+1.20.1.jar"
+
+[download]
+url = "https://pwcdn.fem.place/figvra-0.3.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "de5126ee9920d3ddc18bb5a27e471f7707941493e475ce77687aed5ae37fb99b"
