@@ -1,5 +1,6 @@
 name = "figvra"
 filename = "figvra-0.3.0+1.20.1.jar"
+side = "client"
 
 [download]
 url = "https://pwcdn.fem.place/figvra-0.3.0+1.20.1.jar"
