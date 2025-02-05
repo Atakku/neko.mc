@@ -5,6 +5,11 @@
       "name": "FemSMP",
       "address": "smp.fem.place",
       "forced": true
+    },
+    {
+      "name": "FemSMP Creative Test",
+      "address": "direct.srvr.atakku.dev:34190",
+      "forced": true
     }
   ]
 }
