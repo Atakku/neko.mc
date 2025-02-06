@@ -1,8 +1,0 @@
-name = "moreiotas"
-filename = "moreiotas-fabric-1.20.1-0.1.0-3.jar"
-side = "both"
-
-[download]
-url = "https://pwcdn.fem.place/moreiotas-fabric-1.20.1-0.1.0-3.jar"
-hash-format = "sha256"
-hash = "6609702ffceecee7417537cdd5cd8c3f252280515da4e2d8315b281618ce8efb"

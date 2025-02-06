@@ -1,0 +1,7 @@
+name = "moreiotas"
+filename = "moreiotas-common-1.20.1-0.1.0-5.jar"
+
+[download]
+url = "https://github.com/Talia-12/MoreIotas/releases/download/0.1.0-5/moreiotas-common-1.20.1-0.1.0-5.jar"
+hash-format = "sha256"
+hash = "c24b9f696c4b76b436a4aff94b44efd70f8e887fa9fef1ce8b211e76818de572"
