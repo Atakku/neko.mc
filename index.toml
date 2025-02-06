@@ -406,10 +406,11 @@ file = "mods/content/farmers-delight/ubes-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/hex-casting/_hexal.toml"
+file = "mods/content/hex-casting/hex-casting.pw.toml"
+metafile = true
 
 [[files]]
-file = "mods/content/hex-casting/hex-casting.pw.toml"
+file = "mods/content/hex-casting/hexal.pw.toml"
 metafile = true
 
 [[files]]

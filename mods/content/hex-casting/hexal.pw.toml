@@ -1,0 +1,7 @@
+name = "hexal"
+filename = "hexal-d39fdc39ce01f2799a9e150d04385b7f7d260fac.jar"
+
+[download]
+url = "https://pwcdn.fem.place/hexal-d39fdc39ce01f2799a9e150d04385b7f7d260fac.jar"
+hash-format = "sha256"
+hash = "89bd8d0cd97a7ed65d4a8424047daeaedc104d0acf2e4798c9f00f0e013a8d85"
