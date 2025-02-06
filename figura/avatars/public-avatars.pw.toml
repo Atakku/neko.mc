@@ -1,0 +1,8 @@
+name = "public-avatars"
+filename = "Public Avatars.zip"
+side = "client"
+
+[download]
+url = "https://pwcdn.fem.place/Public%20Avatars.zip"
+hash-format = "sha256"
+hash = "4e9988910d08422bcf68281695cb0e0024c9b813944f554f0e7c9be6ee7cd463"

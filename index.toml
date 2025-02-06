@@ -151,6 +151,10 @@ file = "config/xaerominimap-common.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
+file = "figura/avatars/public-avatars.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-emi-crafting.pw.toml"
 metafile = true
 
