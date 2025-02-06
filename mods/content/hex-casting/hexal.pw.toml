@@ -1,7 +1,8 @@
 name = "hexal"
-filename = "hexal-d39fdc39ce01f2799a9e150d04385b7f7d260fac.jar"
+filename = "hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-d39fdc.jar"
+side = "both"
 
 [download]
-url = "https://pwcdn.fem.place/hexal-d39fdc39ce01f2799a9e150d04385b7f7d260fac.jar"
+url = "https://pwcdn.fem.place/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-d39fdc.jar"
 hash-format = "sha256"
-hash = "89bd8d0cd97a7ed65d4a8424047daeaedc104d0acf2e4798c9f00f0e013a8d85"
+hash = "903fda9236360ada1af7735ff2df7d0ccda7ecdfd0f8e38f3d3b1b33a60caf89"
