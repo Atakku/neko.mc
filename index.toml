@@ -21,13 +21,6 @@ preserve = true
 file = "config/aileron.json"
 
 [[files]]
-file = "config/bclib/client.json"
-preserve = true
-
-[[files]]
-file = "config/bclib/server.json"
-
-[[files]]
 file = "config/builtinservers.json"
 
 [[files]]
