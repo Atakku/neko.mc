@@ -1,8 +1,18 @@
 {
   "actionDenyList": [
-    "hexcasting:flight"
+    "hexcasting:flight",
+    "hexal:gate/make",
+    "hexal:gate/mark",
+    "hexal:gate/unmark",
+    "hexal:gate/get",
+    "hexal:gate/close"
   ],
   "circleActionDenyList": [
-    "hexcasting:flight"
+    "hexcasting:flight",
+    "hexal:gate/make",
+    "hexal:gate/mark",
+    "hexal:gate/unmark",
+    "hexal:gate/get",
+    "hexal:gate/close"
   ]
 }
