@@ -1509,7 +1509,7 @@ file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "schematics/example_passenger_station.nbt"
+file = "schematics/fagtrans_passenger_station.nbt"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
