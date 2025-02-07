@@ -122,6 +122,9 @@ file = "config/paxi/resourcepacks/simple-create-radios.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/pehkui/config.json"
+
+[[files]]
 file = "config/phantasm.json"
 
 [[files]]
@@ -1066,6 +1069,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/structure-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/timeoutout.pw.toml"
 metafile = true
 
 [[files]]
