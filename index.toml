@@ -769,10 +769,6 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/moreiotas.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/performance/adaptiveview.pw.toml"
 metafile = true
 
@@ -1511,6 +1507,9 @@ metafile = true
 [[files]]
 file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
+
+[[files]]
+file = "schematics/example_passenger_station.nbt"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
