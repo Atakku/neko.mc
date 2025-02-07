@@ -1,0 +1,13 @@
+{
+	"keepAllScalesOnRespawn": true,
+	"accurateNetherPortals": true,
+	"scaledFallDamage": false,
+	"scaledMotion": false,
+	"scaledReach": false,
+	"scaledAttack": false,
+	"scaledDefense": false,
+	"scaledHealth": false,
+	"scaledItemDrops": true,
+	"scaledProjectiles": true,
+	"scaledExplosions": false
+}
