@@ -1,13 +1,13 @@
 name = "Drippy Loading Screen"
-filename = "drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar"
+filename = "drippyloadingscreen_fabric_3.0.11_MC_1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/9x0lKayP/drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar"
+url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/POfkx8T4/drippyloadingscreen_fabric_3.0.11_MC_1.20.1.jar"
 hash-format = "sha1"
-hash = "4cadd09fde14ee5207eb7fc595e0bcd1a676c839"
+hash = "b9e2b818863a564112c06337cf341fa01d839263"
 
 [update]
 [update.modrinth]
 mod-id = "v3CYg2V9"
-version = "9x0lKayP"
+version = "POfkx8T4"
