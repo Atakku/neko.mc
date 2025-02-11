@@ -1429,10 +1429,6 @@ file = "mods/utilities/ledger/ledger.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utilities/ledger/watson.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/utilities/opac/opac-fabric-create-support.pw.toml"
 metafile = true
 
