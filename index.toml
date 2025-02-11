@@ -1017,6 +1017,10 @@ file = "mods/tweaks/gameplay/no-telemetry.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/packet-fixer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
 metafile = true
 
@@ -1517,7 +1521,7 @@ file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "schematics/fagtrans_passenger_station.nbt"
+file = "schematics/sakura_passenger_station.nbt"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
