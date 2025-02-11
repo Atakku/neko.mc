@@ -9,10 +9,10 @@
 	maxTrackPlacementLength = 64
 	maxAssemblyLength = 128
 	[trains.trainStats]
-		trainTopSpeed = 28.0
-		trainTurningTopSpeed = 14.0
+		trainTopSpeed = 45.0
+		trainTurningTopSpeed = 45.0
 		trainAcceleration = 3.0
 	[trains.poweredTrainStats]
-		poweredTrainTopSpeed = 44.0
-		poweredTrainTurningTopSpeed = 42.0
+		poweredTrainTopSpeed = 80.0
+		poweredTrainTurningTopSpeed = 80.0
 		poweredTrainAcceleration = 3.0
