@@ -18,6 +18,9 @@ file = "config/ae2/client.json"
 preserve = true
 
 [[files]]
+file = "config/ae2/common.json"
+
+[[files]]
 file = "config/aileron.json"
 
 [[files]]

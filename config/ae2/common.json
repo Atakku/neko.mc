@@ -1,0 +1,6 @@
+{
+  "general": {
+    "matterCannonBlockDamage": false,
+    "tinyTntBlockDamage": false
+  }
+}
