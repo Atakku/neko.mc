@@ -1,0 +1,13 @@
+name = "Create: Trading floor"
+filename = "trading_floor-1.1.7+fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WROfLLvn/versions/iOpOO2K8/trading_floor-1.1.7%2Bfabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "2bd38fa46121dc543493c236e315b7c2f8fe12d7"
+
+[update]
+[update.modrinth]
+mod-id = "WROfLLvn"
+version = "iOpOO2K8"

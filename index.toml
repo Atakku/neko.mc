@@ -348,6 +348,10 @@ file = "mods/content/create/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-trading-floor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-train-perspective.pw.toml"
 metafile = true
 
@@ -1524,7 +1528,7 @@ file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
-file = "schematics/sakura_passenger_station.nbt"
+file = "schematics/old_passanger_station.nbt"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
