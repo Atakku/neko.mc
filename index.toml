@@ -69,6 +69,9 @@ file = "config/expanded_ecosphere/config.json5"
 file = "config/expanded_ecosphere/replace_biomes.json5"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+
+[[files]]
 file = "config/fancymenu/assets/logo.png"
 
 [[files]]
