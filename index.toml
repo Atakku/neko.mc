@@ -281,6 +281,10 @@ file = "mods/content/computer-craft/unlimitedperipheralworks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/_create-pantographs-and-wire.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
@@ -326,10 +330,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-food.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/create/create-pantographs-and-wire.pw.toml"
 metafile = true
 
 [[files]]
