@@ -1,15 +1,15 @@
 name = "fsmp-whitelist"
-filename = "fsmp-whitelist-0.0.3+1.20.1-server.jar"
+filename = "fsmp-whitelist-0.0.4+1.20.1-server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/Atakku/fsmp-whitelist/releases/download/mc1.20.1/v0.0.3/fsmp-whitelist-0.0.3%2B1.20.1-server.jar"
+url = "https://github.com/Atakku/fsmp-whitelist/releases/download/mc1.20.1/v0.0.4/fsmp-whitelist-0.0.4%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "abedc663fa8588cc83b94c42149e01c16e79eb54788dda8ff83236ac3ca3ccc3"
+hash = "5d161e0940e16c83853e755d278bf7731499a921c5ac7062a4283b3817c327ae"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "Atakku/fsmp-whitelist"
-tag = "mc1.20.1/v0.0.3"
+tag = "mc1.20.1/v0.0.4"
