@@ -299,6 +299,10 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-aquatic-ambitions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-cards.pw.toml"
 metafile = true
 
@@ -360,10 +364,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-vibrant-vaults.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/create/create_oxidized.pw.toml"
 metafile = true
 
 [[files]]
