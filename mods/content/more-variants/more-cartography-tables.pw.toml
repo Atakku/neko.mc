@@ -1,0 +1,13 @@
+name = "More Cartography Tables"
+filename = "MoreCartographyTables-1.7.1+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pEwUc4MK/versions/R0fy2SC3/MoreCartographyTables-1.7.1%2B1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "9c72f6d2fd1051be27365b2ccc1aca15940ea3ac"
+
+[update]
+[update.modrinth]
+mod-id = "pEwUc4MK"
+version = "R0fy2SC3"

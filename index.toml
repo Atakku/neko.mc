@@ -487,6 +487,30 @@ file = "mods/content/mobs/species.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/more-variants/more-armor-stand-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-barrel-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-bed-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-beehive-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-bookshelf-variants-lieonlion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-cartography-tables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/more-variants/more-chest-variants-lieonlion.pw.toml"
 metafile = true
 
@@ -495,11 +519,51 @@ file = "mods/content/more-variants/more-chiseled-bookshelf-variants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/more-variants/more-composter-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-crafting-tables-lieonlion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-fletching-tables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/more-variants/more-furnace-variants-lieonlion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/more-variants/more-grindstone-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/more-variants/more-jukebox-noteblock-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-lectern-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-loom-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-shield-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-smithing-tables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-smoker-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-stick-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -799,7 +863,7 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/more-bookshelf-variants-lieonlion.pw.toml"
+file = "mods/more-fishing-rod-variants.pw.toml"
 metafile = true
 
 [[files]]

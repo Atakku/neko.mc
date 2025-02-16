@@ -1,0 +1,13 @@
+name = "More Fletching Tables"
+filename = "MoreFletchingTables-1.7.1+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8TnTa9Ui/versions/mMFYly1i/MoreFletchingTables-1.7.1%2B1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "026d5cf3c412dc08b23d444ef5c804651cec9c83"
+
+[update]
+[update.modrinth]
+mod-id = "8TnTa9Ui"
+version = "mMFYly1i"

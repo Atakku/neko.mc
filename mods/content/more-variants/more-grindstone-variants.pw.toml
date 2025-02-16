@@ -1,0 +1,13 @@
+name = "More Grindstone Variants"
+filename = "MoreGrindstoneVariants-1.1.2+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VNYXl8f7/versions/7i8deCvW/MoreGrindstoneVariants-1.1.2%2B1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "c6a16f4b67b3fb9c3392a1d966c9f6b95c10de3d"
+
+[update]
+[update.modrinth]
+mod-id = "VNYXl8f7"
+version = "7i8deCvW"

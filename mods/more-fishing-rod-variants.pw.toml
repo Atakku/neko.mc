@@ -1,0 +1,13 @@
+name = "More (Fishing) Rod Variants (MStV+)"
+filename = "MoreFishingRodVariants-1.0.4+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J7YAdDyQ/versions/Jxwa5yLS/MoreFishingRodVariants-1.0.4%2B1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "416489b7af8dc6872e2d670157d317d4fe7205ad"
+
+[update]
+[update.modrinth]
+mod-id = "J7YAdDyQ"
+version = "Jxwa5yLS"

@@ -1,0 +1,13 @@
+name = "More Loom Variants"
+filename = "MoreLoomVariants-1.1.1+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yM3Gl0Pb/versions/znhG35r2/MoreLoomVariants-1.1.1%2B1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "7c0461605ee2036cb1088beb9d1b28253a527d65"
+
+[update]
+[update.modrinth]
+mod-id = "yM3Gl0Pb"
+version = "znhG35r2"

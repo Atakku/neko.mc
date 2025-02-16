@@ -1,0 +1,13 @@
+name = "More Beehive Variants"
+filename = "MoreBeehiveVariants-1.1.1+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/evbwy51Z/versions/aIeBhBY3/MoreBeehiveVariants-1.1.1%2B1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "d0548b1967b2b574194c8b3b0bbb41adabbc9c7f"
+
+[update]
+[update.modrinth]
+mod-id = "evbwy51Z"
+version = "aIeBhBY3"

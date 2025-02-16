@@ -1,0 +1,13 @@
+name = "More Smoker Variants"
+filename = "MoreSmokerVariants-1.3.1+1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8HxZnUY7/versions/2ZSzWDJN/MoreSmokerVariants-1.3.1%2B1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "b493ce699d866b3bf670bd541a9f0e24c47fbaed"
+
+[update]
+[update.modrinth]
+mod-id = "8HxZnUY7"
+version = "2ZSzWDJN"
