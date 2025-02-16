@@ -1,6 +1,6 @@
 name = "Armor Statues"
 filename = "ArmorStatues-v8.0.6-1.20.1-Fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/D9e0CJWj/ArmorStatues-v8.0.6-1.20.1-Fabric.jar"
