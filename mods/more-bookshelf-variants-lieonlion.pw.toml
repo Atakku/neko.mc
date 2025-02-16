@@ -1,0 +1,13 @@
+name = "More Bookshelves Variants"
+filename = "MoreBookshelfVariants-1.0.4+1.20.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twjW6Ggd/versions/auCccWh0/MoreBookshelfVariants-1.0.4%2B1.20.4-Fabric.jar"
+hash-format = "sha1"
+hash = "ec0fa85dc26453c5cdff9a1b84e334798c554115"
+
+[update]
+[update.modrinth]
+mod-id = "twjW6Ggd"
+version = "auCccWh0"

@@ -228,18 +228,6 @@ file = "mods/content/build-deco/led.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/build-deco/more-chest-variants-lieonlion.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/build-deco/more-chiseled-bookshelf-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/build-deco/more-furnace-variants-lieonlion.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/build-deco/nightlights.pw.toml"
 metafile = true
 
@@ -496,6 +484,22 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/species.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-chest-variants-lieonlion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-chiseled-bookshelf-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-furnace-variants-lieonlion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/more-variants/more-jukebox-noteblock-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -795,7 +799,7 @@ file = "mods/libraries/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/more-chiseled-bookshelf-variants.pw.toml"
+file = "mods/more-bookshelf-variants-lieonlion.pw.toml"
 metafile = true
 
 [[files]]
