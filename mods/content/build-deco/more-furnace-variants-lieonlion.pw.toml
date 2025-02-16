@@ -1,0 +1,13 @@
+name = "More Furnaces Variants"
+filename = "MoreFurnaceVariants-1.0.2+1.20.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aFKTqsnr/versions/YekF8rP5/MoreFurnaceVariants-1.0.2%2B1.20.4-Fabric.jar"
+hash-format = "sha1"
+hash = "8d609497f05d9628dfc258ba782c42adaafd58c7"
+
+[update]
+[update.modrinth]
+mod-id = "aFKTqsnr"
+version = "YekF8rP5"

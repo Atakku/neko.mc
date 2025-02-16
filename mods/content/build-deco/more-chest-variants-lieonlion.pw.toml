@@ -1,0 +1,13 @@
+name = "More Chests Variants (MCV)"
+filename = "MoreChestVariants-1.5.6+1.20.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HKKqmr2p/versions/4RTlXzWr/MoreChestVariants-1.5.6%2B1.20.2-Fabric.jar"
+hash-format = "sha1"
+hash = "408c77d495c04e547903fecb02fae0cf34cf776f"
+
+[update]
+[update.modrinth]
+mod-id = "HKKqmr2p"
+version = "4RTlXzWr"

@@ -1,9 +1,9 @@
 {
   "version": 1,
   "overrides": {
-    "plushables": {
+    "create_aquatic_ambitions": {
       "-depends": {
-        "patchouli": ""
+        "create": ""
       }
     }
   }

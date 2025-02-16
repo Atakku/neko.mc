@@ -11,3 +11,8 @@ hash = "a40f2aa346140a4fee2079d845c62ee87454bdb6"
 [update.modrinth]
 mod-id = "51shyZVL"
 version = "3m5znPWm"
+
+[option]
+optional = true
+default = true
+description = "A mod that changes how multiple types of culling are handled in order to improve performance"
