@@ -5,6 +5,16 @@
       "-depends": {
         "create": ""
       }
+    },
+    "mstv-base": {
+      "-depends": {
+        "mstv-masv": "IGNORED"
+      }
+    },
+    "nemos-moreladdervariants": {
+      "-depends": {
+        "mstv-masv": "IGNORED"
+      }
     }
   }
 }
