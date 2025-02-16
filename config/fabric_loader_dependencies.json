@@ -6,14 +6,14 @@
         "create": ""
       }
     },
-    "mstv-base": {
+    "mstv-masv": {
       "-depends": {
-        "mstv-masv": "IGNORED"
+        "mstv-base": "IGNORED"
       }
     },
     "nemos-moreladdervariants": {
       "-depends": {
-        "mstv-masv": "IGNORED"
+        "mstv-base": "IGNORED"
       }
     }
   }
