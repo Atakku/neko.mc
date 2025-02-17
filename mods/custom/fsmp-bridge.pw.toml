@@ -1,15 +1,15 @@
 name = "fsmp-bridge"
-filename = "fsmp-bridge-1.3.0+1.20.1-server.jar"
+filename = "fsmp-bridge-1.3.2+1.20.1-server.jar"
 side = "server"
 
 [download]
-url = "https://github.com/Atakku/fsmp-bridge/releases/download/mc1.20.1/v1.3.0/fsmp-bridge-1.3.0%2B1.20.1-server.jar"
+url = "https://github.com/Atakku/fsmp-bridge/releases/download/mc1.20.1/v1.3.2/fsmp-bridge-1.3.2%2B1.20.1-server.jar"
 hash-format = "sha256"
-hash = "9e3cd41a73a58e763655beda8af32a1b7a72f99cb0f08cbd3c7a70385db0d899"
+hash = "e67406f9b1fc3f678ac2ffcc621ca9204f0e634f5bc44cb4bec7b48ff01549ee"
 
 [update]
 [update.github]
 branch = "1.20.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "atakku/fsmp-bridge"
-tag = "mc1.20.1/v1.3.0"
+tag = "mc1.20.1/v1.3.2"

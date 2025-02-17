@@ -659,10 +659,6 @@ file = "mods/custom/fsmp-structurefix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom/fsmp-whitelist.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/custom/fsmp-worldgen.pw.toml"
 metafile = true
 
