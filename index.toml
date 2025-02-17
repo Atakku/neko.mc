@@ -487,15 +487,7 @@ file = "mods/content/mobs/species.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/more-variants/more-armor-stand-variants.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/more-variants/more-barrel-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/more-variants/more-bed-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -524,10 +516,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/more-variants/more-crafting-tables-lieonlion.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/more-variants/more-fishing-rod-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -564,10 +552,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/more-variants/more-smoker-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/more-variants/more-stick-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -1532,6 +1516,10 @@ metafile = true
 
 [[files]]
 file = "mods/utilities/world-preview.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/worldedit.pw.toml"
 metafile = true
 
 [[files]]
