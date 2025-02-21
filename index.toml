@@ -639,6 +639,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom/fsmp-bridge.pw.toml"
 metafile = true
 
