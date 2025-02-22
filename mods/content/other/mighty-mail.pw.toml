@@ -1,13 +1,8 @@
 name = "Mighty Mail"
-filename = "mighty_mail-fabric-1.20.1-1.1.2.jar"
+filename = "fsmp-mightymail-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c41b1026e776105d0dfbd886566d4f1a838e1b23"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5733292
-project-id = 902986
+url = "https://pwcdn.fem.place/fsmp-mightymail-1.20.1-1.1.2.jar"
+hash-format = "sha256"
+hash = "db95069dc95ba9c86f3d82aa7e5c9286a3d3e66679a5ad99c8e524afe328d658"
